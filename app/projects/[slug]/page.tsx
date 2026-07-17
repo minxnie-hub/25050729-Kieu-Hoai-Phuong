@@ -39,11 +39,14 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           </div>
         </div>
         <div className="detail-hero__visual" data-reveal>
-          <span className="detail-big-number">{project.number}</span>
+          <div className="detail-visual-head">
+            <span>Bài {project.number}</span>
+            <span>{project.pages} trang</span>
+          </div>
           <figure>
             <img src={withBasePath(project.previewImages[0])} alt={`Ảnh xem trước ${project.title}`} />
           </figure>
-          <div className="detail-stamp">{project.pages} trang</div>
+          <p className="detail-visual-caption">Trích từ bài nộp gốc của sinh viên</p>
         </div>
       </section>
 

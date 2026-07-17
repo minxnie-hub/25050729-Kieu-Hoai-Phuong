@@ -4,41 +4,6 @@ import { Footer } from "@/components/Footer";
 import { ProjectAtlas } from "@/components/ProjectAtlas";
 import { withBasePath } from "@/lib/paths";
 
-function BotanicalBranch() {
-  return (
-    <svg className="botanical-branch" viewBox="0 0 430 470" aria-hidden="true">
-      <path className="branch-stem" d="M42 430C118 351 139 280 192 221C245 162 316 140 385 43" />
-      <path className="branch-stem branch-stem--thin" d="M170 249C145 199 132 151 143 103" />
-      <path className="branch-stem branch-stem--thin" d="M224 190C262 202 306 199 346 176" />
-      <path className="branch-stem branch-stem--thin" d="M279 146C269 108 274 75 300 42" />
-      <g className="branch-leaves">
-        <path d="M135 126C101 116 87 91 91 62C121 67 143 88 135 126Z" />
-        <path d="M151 142C182 123 205 127 220 145C192 166 166 165 151 142Z" />
-        <path d="M246 183C263 151 289 141 318 151C303 181 276 195 246 183Z" />
-        <path d="M288 126C311 101 340 96 365 111C346 139 316 144 288 126Z" />
-        <path d="M305 87C295 57 305 31 329 17C344 44 334 72 305 87Z" />
-        <path d="M340 81C368 59 397 60 418 80C394 105 364 104 340 81Z" />
-        <path d="M187 227C152 229 130 212 122 185C153 177 180 193 187 227Z" />
-      </g>
-    </svg>
-  );
-}
-
-function GrowthLine() {
-  return (
-    <svg className="growth-line" viewBox="0 0 720 420" aria-hidden="true">
-      <path d="M22 374C128 367 167 326 241 311C310 296 353 259 398 220C443 181 491 169 530 126C571 81 621 58 695 30" />
-      <g>
-        <circle cx="22" cy="374" r="7" />
-        <circle cx="241" cy="311" r="7" />
-        <circle cx="398" cy="220" r="7" />
-        <circle cx="530" cy="126" r="7" />
-        <circle cx="695" cy="30" r="7" />
-      </g>
-    </svg>
-  );
-}
-
 export default function HomePage() {
   return (
     <main className="page-shell">
@@ -61,16 +26,26 @@ export default function HomePage() {
         </div>
 
         <div className="hero-visual" data-reveal>
-          <GrowthLine />
-          <BotanicalBranch />
-          <figure className="hero-evidence hero-evidence--main">
-            <img src={withBasePath("/assets/projects/p5/image5.webp")} alt="Slide Pomodoro trong bài tập 5" />
-          </figure>
-          <figure className="hero-evidence hero-evidence--small">
-            <img src={withBasePath("/assets/projects/p6/image1.webp")} alt="Infographic sử dụng AI có trách nhiệm" />
-          </figure>
-          <div className="hero-stamp" aria-hidden="true"><span>KHP</span><small>growth issue</small></div>
-          <p className="hero-quote">“Học hỏi không ngừng để tạo ra giá trị thật.”</p>
+          <div className="hero-showcase">
+            <div className="hero-showcase__header">
+              <span>Selected work</span>
+              <span>2026</span>
+            </div>
+            <figure className="hero-showcase__main">
+              <img src={withBasePath("/assets/projects/p5/image5.webp")} alt="Slide Pomodoro trong bài tập 5" />
+              <figcaption><span>05</span> AI tạo sinh và phương pháp Pomodoro</figcaption>
+            </figure>
+            <div className="hero-showcase__footer">
+              <figure className="hero-showcase__secondary">
+                <img src={withBasePath("/assets/projects/p6/image1.webp")} alt="Infographic sử dụng AI có trách nhiệm" />
+              </figure>
+              <div className="hero-showcase__note">
+                <span>Hành trình</span>
+                <strong>Học tập · Thực hành · Trưởng thành</strong>
+                <p>Nội dung thật, minh chứng thật và một cách trình bày rõ ràng hơn.</p>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 

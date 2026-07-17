@@ -52,7 +52,3 @@ Workflow `.github/workflows/deploy.yml` đã được cấu hình sẵn.
 - Tổng quan 6 bài tập.
 - Trang riêng cho từng bài với mục tiêu, quá trình, sản phẩm và tài liệu gốc.
 - Tổng kết trải nghiệm, kỹ năng, thử thách và định hướng sử dụng AI có trách nhiệm.
-
-### Lưu ý về `npm ci`
-
-`package-lock.json` sử dụng trực tiếp npm Registry công khai. Không thay `resolved` bằng địa chỉ registry nội bộ hoặc proxy cục bộ, vì GitHub Actions sẽ không truy cập được địa chỉ đó.
