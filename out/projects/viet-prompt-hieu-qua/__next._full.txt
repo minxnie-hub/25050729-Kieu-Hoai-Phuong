@@ -1,0 +1,248 @@
+1:"$Sreact.fragment"
+2:I[58184,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MotionProvider"]
+3:I[39756,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[22016,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1rxncug86bump.js"],""]
+7:I[97367,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+f:I[68027,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/2i3rkhihtszgp.css","style"]
+0:{"P":null,"c":["","projects","viet-prompt-hieu-qua",""],"q":"","i":false,"f":[[["",{"children":["projects",{"children":[["slug","viet-prompt-hieu-qua","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2i3rkhihtszgp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-3iiw2z09wpg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","children":["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"not-found","children":[["$","span",null,{"children":"404"}],["$","h1",null,{"children":"Trang này không nằm trong portfolio."}],["$","$L5",null,{"href":"/","children":"Trở về trang chủ"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/1rxncug86bump.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2i3rkhihtszgp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"RTurn41NPo-ffY__F8mMW"}
+10:[]
+a:"$W10"
+:HL["/assets/projects/p3/image3.webp","image"]
+11:T2d22,<h2 id="trường-đại-học-kinh-tế---đhqghn"><strong>Trường Đại học Kinh Tế
+- ĐHQGHN</strong></h2>
+<h2
+id="môn-học-nhập-môn-công-nghệ-số-và-ứng-dụng-trí-tuệ-nhân-tạo."><strong>Môn
+học</strong>: Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo.</h2>
+<h2 id="tên-sinh-viên-kiều-hoài-phương"><strong>Tên sinh viên</strong>:
+Kiều Hoài Phương</h2>
+<h2 id="ngànhkinh-tế-phát-triển-ktpt6"><strong>Ngành</strong>:Kinh tế
+phát triển (KTPT6)</h2>
+<h2 id="msv-25050729"><strong>MSV</strong>: 25050729</h2>
+<h2 id="mã-lớp-vnu1001_e252041-ueb.d2"><strong>Mã lớp</strong>:
+VNU1001_E252041 UEB.D2</h2>
+<h2 id="stt-94"><strong>STT</strong>: 94</h2>
+<h2 id="báo-cáo-viết-promt-hiệu-quả-cho-các-tác-vụ-học-tập"><strong>BÁO
+CÁO VIẾT PROMT HIỆU QUẢ CHO CÁC TÁC VỤ HỌC TẬP</strong></h2>
+<h2 id="i.-giới-thiệu"><strong>I. Giới thiệu</strong></h2>
+<p>Trong quá trình học tập hiện nay, các công cụ AI như ChatGPT hỗ trợ
+rất nhiều trong việc tìm kiếm thông tin và xử lý bài tập. Tuy nhiên, để
+AI đưa ra kết quả chính xác và hữu ích, người dùng cần biết cách viết
+prompt (câu lệnh) hiệu quả.</p>
+<p>Bài báo cáo này nhằm thử nghiệm các cách viết prompt khác nhau cho
+một số tác vụ học tập phổ biến, từ đó rút ra kinh nghiệm để sử dụng AI
+hiệu quả hơn.</p>
+<p><strong>II. Các tác vụ được lựa chọn</strong></p>
+<p>Tôi lựa chọn 3 tác vụ học tập phổ biến:</p>
+<ol type="1">
+<li><p>Tóm tắt tài liệu học thuật</p></li>
+<li><p>Giải thích một khái niệm</p></li>
+<li><p>Tạo câu hỏi ôn tập</p></li>
+</ol>
+<h2 id="iii.-thử-nghiệm-prompt"><strong>III. Thử nghiệm
+prompt</strong></h2>
+<p><strong>1. Tác vụ 1: Tóm tắt tài liệu</strong></p>
+<p>Trong những năm gần đây, biến đổi khí hậu đã trở thành một trong
+những vấn đề nghiêm trọng nhất trên toàn cầu. Nhiệt độ trung bình của
+Trái Đất đang tăng lên do lượng khí nhà kính như CO2 ngày càng nhiều,
+chủ yếu từ hoạt động của con người như đốt nhiên liệu hóa thạch và phá
+rừng. Hậu quả của biến đổi khí hậu bao gồm băng tan ở hai cực, mực nước
+biển dâng cao, thời tiết cực đoan như bão, lũ lụt và hạn hán xảy ra
+thường xuyên hơn. Điều này ảnh hưởng trực tiếp đến đời sống con người,
+đặc biệt là ở các quốc gia ven biển và những khu vực có điều kiện kinh
+tế khó khăn. Vì vậy, việc giảm phát thải khí nhà kính và bảo vệ môi
+trường là nhiệm vụ cấp bách của toàn nhân loại.</p>
+<h4 id="prompt-cơ-bản-tóm-tắt-đoạn-văn-sau"><strong>Prompt cơ
+bản:</strong> Tóm tắt đoạn văn sau</h4>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image3.webp" /></p>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image10.webp" /></p>
+<h4
+id="prompt-cải-tiến-hãy-tóm-tắt-đoạn-văn-sau-thành-5-câu-giữ-lại-ý-chính-và-viết-ngắn-gọn-dễ-hiểu"><strong>Prompt
+cải tiến:</strong> Hãy tóm tắt đoạn văn sau thành 5 câu, giữ lại ý chính
+và viết ngắn gọn, dễ hiểu:</h4>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image9.webp" /></p>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image5.webp" /></p>
+<h4
+id="prompt-nâng-cao-bạn-là-sinh-viên.-hãy-tóm-tắt-đoạn-văn-sau-thành-5-ý-chính-dưới-dạng-gạch-đầu-dòng-ưu-tiên-thông-tin-quan-trọng-và-sử-dụng-ngôn-ngữ-đơn-giản"><strong>Prompt
+nâng cao:</strong> Bạn là sinh viên. Hãy tóm tắt đoạn văn sau thành 5 ý
+chính dưới dạng gạch đầu dòng, ưu tiên thông tin quan trọng và sử dụng
+ngôn ngữ đơn giản</h4>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image7.webp" /></p>
+<h4 id="nhận-xét"><strong>Nhận xét:</strong></h4>
+<ul>
+<li><p>Prompt cơ bản: kết quả chung chung</p></li>
+<li><p>Prompt cải tiến: rõ ràng hơn</p></li>
+<li><p>Prompt nâng cao: dễ học và dễ dùng nhất</p></li>
+</ul>
+<h3 id="tác-vụ-2-giải-thích-khái-niệm"><strong>2. Tác vụ 2: Giải thích
+khái niệm</strong></h3>
+<h4 id="prompt-cơ-bản"> <strong>Prompt cơ bản:</strong></h4>
+<p>Giải thích khái niệm “toàn cầu hóa”</p>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image1.webp" /></p>
+<h4 id="prompt-cải-tiến"> <strong>Prompt cải tiến:</strong></h4>
+<p>Hãy giải thích khái niệm “toàn cầu hóa” một cách đơn giản, dễ hiểu,
+kèm ví dụ</p>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image11.webp" /></p>
+<h4
+id="prompt-nâng-cao-bạn-là-giáo-viên.-hãy-giải-thích-khái-niệm-toàn-cầu-hóa-cho-học-sinh-cấp-3-có-ví-dụ-minh-họa-và-so-sánh-ngắn">
+<strong>Prompt nâng cao:</strong> Bạn là giáo viên. Hãy giải thích khái
+niệm “toàn cầu hóa” cho học sinh cấp 3, có ví dụ minh họa và so sánh
+ngắn</h4>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image4.webp" /></p>
+<h4 id="nhận-xét-1"><strong>Nhận xét:</strong></h4>
+<ul>
+<li><p><strong>IV. So sánh kết quả</strong></p></li>
+<li><p>Có ví dụ → dễ hiểu hơn</p></li>
+<li><p>Có vai trò → nội dung phù hợp hơn</p></li>
+</ul>
+<p><strong>3. Tác vụ 3: Tạo câu hỏi ôn tập</strong></p>
+<h4 id="prompt-cơ-bản-tạo-câu-hỏi-về-biến-đổi-khí-hậu"> <strong>Prompt
+cơ bản:</strong> Tạo câu hỏi về biến đổi khí hậu</h4>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image2.webp" /></p>
+<h4
+id="prompt-cải-tiến-hãy-tạo-5-câu-hỏi-trắc-nghiệm-về-biến-đổi-khí-hậu-mỗi-câu-có-4-đáp-án">
+<strong>Prompt cải tiến:</strong> Hãy tạo 5 câu hỏi trắc nghiệm về biến
+đổi khí hậu, mỗi câu có 4 đáp án</h4>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image8.webp" /></p>
+<p><strong>Prompt nâng cao:</strong> Bạn là giáo viên. Hãy tạo 5 câu hỏi
+trắc nghiệm về biến đổi khí hậu, mỗi câu có 4 đáp án và chỉ ra đáp án
+đúng kèm giải thích, mức độ từ dễ đến trung bình</p>
+<p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
+src="/assets/projects/p3/image6.webp" /></p>
+<h4 id="nhận-xét-2"> <strong>Nhận xét:</strong></h4>
+<ul>
+<li><p>Prompt càng chi tiết → càng dễ dùng ngay</p></li>
+<li><p>Prompt nâng cao hiệu quả nhất</p></li>
+</ul>
+<div class="table-scroll"><table>
+<colgroup>
+<col />
+<col />
+<col />
+<col />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Tiêu chí</strong></th>
+<th><strong>Promt cơ bản</strong></th>
+<th><strong>Promt cải tiến</strong></th>
+<th><strong>Promt nâng cao</strong></th>
+</tr>
+<tr class="odd">
+<th><strong>Độ rõ ràng</strong></th>
+<th>Thấp</th>
+<th>Trung bình</th>
+<th>Cao</th>
+</tr>
+<tr class="header">
+<th><strong>Độ chi tiết</strong></th>
+<th>Ít</th>
+<th>Khá</th>
+<th>Nhiều</th>
+</tr>
+<tr class="odd">
+<th><strong>Ứng dụng</strong></th>
+<th>Thấp</th>
+<th>Khá</th>
+<th>Cao</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table></div>
+<h1 id="v.-phân-tích-chi-tiết-hiệu-quả-của-các-prompt"><strong>V. Phân
+tích chi tiết hiệu quả của các prompt</strong></h1>
+<p>Qua quá trình thử nghiệm 3 loại prompt (cơ bản, cải tiến, nâng cao),
+tôi nhận thấy sự khác biệt rõ rệt về chất lượng kết quả mà AI trả
+về.</p>
+<p><strong>1. Prompt cơ bản</strong></p>
+<p>Prompt cơ bản thường có đặc điểm:</p>
+<ul>
+<li><p>Ngắn, đơn giản</p></li>
+<li><p>Không nêu rõ yêu cầu cụ thể</p></li>
+<li><p>Không có định dạng đầu ra</p></li>
+</ul>
+<p><strong>Kết quả:</strong></p>
+<ul>
+<li><p>Nội dung trả về thường mang tính chung chung</p></li>
+<li><p>Thiếu trọng tâm, đôi khi dài dòng</p></li>
+<li><p>Khó sử dụng trực tiếp cho mục đích học tập</p></li>
+</ul>
+<p><strong>Nguyên nhân:<br />
+</strong> Do prompt không cung cấp đủ thông tin, AI phải “tự đoán” ý
+định người dùng → dễ trả lời theo hướng tổng quát.</p>
+<p><strong>2. Prompt cải tiến</strong></p>
+<p>Prompt cải tiến đã bắt đầu có:</p>
+<ul>
+<li><p>Giới hạn rõ ràng (số câu, số ý)</p></li>
+<li><p>Yêu cầu cụ thể hơn (ngắn gọn, dễ hiểu…)</p></li>
+</ul>
+<p><strong>Kết quả:</strong></p>
+<ul>
+<li><p>Nội dung rõ ràng hơn so với prompt cơ bản</p></li>
+<li><p>Có cấu trúc tốt hơn</p></li>
+<li><p>Dễ sử dụng hơn trong học tập</p></li>
+</ul>
+<p><strong>Hạn chế:</strong></p>
+<ul>
+<li><p>Vẫn chưa tối ưu hoàn toàn</p></li>
+<li><p>Đôi khi chưa đúng đối tượng người học</p></li>
+<li><p>Chưa kiểm soát được cách trình bày của AI</p></li>
+</ul>
+<p><strong>Nguyên nhân:<br />
+</strong> Dù đã có yêu cầu cụ thể, nhưng vẫn thiếu yếu tố định hướng sâu
+như vai trò (role) hoặc ngữ cảnh.</p>
+<h2 id="prompt-nâng-cao"><strong>3. Prompt nâng cao</strong></h2>
+<p>Prompt nâng cao thường có:</p>
+<ul>
+<li><p>Xác định vai trò (giáo viên, sinh viên…)</p></li>
+<li><p>Yêu cầu rõ ràng về cấu trúc (gạch đầu dòng, số ý…)</p></li>
+<li><p>Xác định đối tượng người đọc (học sinh, sinh viên…)</p></li>
+<li><p>Có nhiều điều kiện cụ thể</p></li>
+</ul>
+<p><strong>Kết quả:</strong></p>
+<ul>
+<li><p>Nội dung chính xác, đúng trọng tâm</p></li>
+<li><p>Cấu trúc rõ ràng, dễ học</p></li>
+<li><p>Có thể sử dụng ngay mà không cần chỉnh sửa nhiều</p></li>
+</ul>
+<p><strong>Ưu điểm nổi bật:</strong></p>
+<ul>
+<li><p>Giảm thời gian xử lý lại nội dung</p></li>
+<li><p>Tăng tính ứng dụng thực tế</p></li>
+<li><p>Phù hợp mục tiêu học tập</p></li>
+</ul>
+<p><strong>Nguyên nhân:<br />
+</strong> Prompt cung cấp đầy đủ ngữ cảnh và yêu cầu → AI hiểu rõ mục
+tiêu → trả lời đúng hướng hơn.</p>
+<h2 id="vii.-kết-luận"><strong>VII. Kết luận</strong></h2>
+<p>Qua quá trình thử nghiệm, tôi nhận thấy rằng việc viết prompt có ảnh
+hưởng trực tiếp đến chất lượng câu trả lời của AI. Prompt càng rõ ràng,
+cụ thể và có định hướng thì kết quả càng chính xác và dễ sử dụng.</p>
+<p>Bên cạnh đó, việc bổ sung các yếu tố như vai trò, đối tượng người đọc
+và định dạng đầu ra giúp AI hiểu đúng yêu cầu và trả lời phù hợp
+hơn.</p>
+<p>Từ bài tập này, tôi rút ra rằng để sử dụng AI hiệu quả trong học tập,
+cần biết cách viết prompt một cách chi tiết và có mục tiêu rõ ràng.
+Trong tương lai, tôi sẽ áp dụng kỹ năng này để nâng cao hiệu quả học tập
+của bản thân.</p>
+6:["$","main",null,{"className":"page-shell detail-page detail-page--lilac","children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"site-header__inner","children":[["$","$L5",null,{"href":"/","className":"brand-mark","aria-label":"Trang chủ Kiều Hoài Phương","children":[["$","span",null,{"className":"brand-mark__monogram","children":"KHP"}],["$","span",null,{"className":"brand-mark__meta","children":[["$","strong",null,{"children":"Kiều Hoài Phương"}],["$","small",null,{"children":"Portfolio · 25050729"}]]}]]}],["$","nav",null,{"className":"site-nav","aria-label":"Điều hướng chính","children":[["$","$L5",null,{"href":"/#gioi-thieu","children":"Giới thiệu"}],["$","$L5",null,{"href":"/#du-an","children":"Bài tập"}],["$","$L5",null,{"href":"/#tong-ket","children":"Tổng kết"}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","children":"Liên hệ"}]]}],["$","a",null,{"className":"header-brief","href":"/downloads/de-bai-nhap-mon-cns-ai.pdf","target":"_blank","rel":"noreferrer","children":["Xem đề bài ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]}],["$","section",null,{"className":"detail-hero","children":[["$","div",null,{"className":"detail-hero__copy","data-reveal":true,"children":[["$","$L5",null,{"href":"/#du-an","className":"back-link","children":[["$","span",null,{"aria-hidden":"true","children":"←"}]," Quay lại danh sách"]}],["$","p",null,{"className":"detail-index","children":["Bài ","03"]}],["$","h1",null,{"children":"Viết prompt hiệu quả cho các tác vụ học tập"}],["$","p",null,{"className":"detail-summary","children":"Thử nghiệm ba cấp độ prompt cho tóm tắt, giải thích khái niệm và tạo câu hỏi ôn tập."}],["$","div",null,{"className":"tag-row","children":[["$","span","ChatGPT",{"children":"ChatGPT"}],["$","span","Prompt engineering",{"children":"Prompt engineering"}],["$","span","So sánh",{"children":"So sánh"}]]}],["$","div",null,{"className":"detail-actions","children":[["$","a",null,{"href":"/downloads/bai-3.pdf","target":"_blank","rel":"noreferrer","className":"button-primary","children":["Mở PDF ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"/downloads/bai-3.docx","download":true,"className":"button-text","children":"Tải DOCX"}]]}]]}],["$","div",null,{"className":"detail-hero__visual","data-reveal":true,"children":[["$","span",null,{"className":"detail-big-number","children":"03"}],["$","figure",null,{"children":["$","img",null,{"src":"/assets/projects/p3/image3.webp","alt":"Ảnh xem trước Viết prompt hiệu quả cho các tác vụ học tập"}]}],["$","div",null,{"className":"detail-stamp","children":[9," trang"]}]]}]]}],["$","section",null,{"className":"project-brief section-pad","aria-label":"Tóm tắt bài tập","children":[["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Mục tiêu"}],["$","p",null,{"children":"Hiểu cách độ rõ ràng, ngữ cảnh, vai trò và định dạng đầu ra ảnh hưởng trực tiếp đến chất lượng câu trả lời của AI."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Quá trình"}],["$","p",null,{"children":"Với mỗi tác vụ, mình viết prompt cơ bản, prompt cải tiến và prompt nâng cao, sau đó thử nghiệm trên ChatGPT và so sánh kết quả theo độ rõ ràng, chi tiết và khả năng ứng dụng."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Sản phẩm cuối"}],["$","p",null,{"children":"Báo cáo thử nghiệm ba tác vụ, bảng so sánh ba cấp độ prompt và các ảnh chụp đầu ra thực tế."}]]}]]}],["$","section",null,{"className":"document-section","children":[["$","aside",null,{"className":"reading-rail","children":[["$","span",null,{"children":"03"}],["$","h2",null,{"children":"Bài nộp gốc"}],["$","p",null,{"children":"Phần dưới giữ nguyên thứ tự nội dung, bảng và hình ảnh minh chứng từ tệp của sinh viên."}],["$","a",null,{"href":"/downloads/bai-3.pdf","target":"_blank","rel":"noreferrer","children":"Đọc bản PDF ↗"}]]}],["$","article",null,{"className":"document-paper","data-reveal":true,"children":["$","div",null,{"className":"document-body","dangerouslySetInnerHTML":{"__html":"$11"}}]}]]}],"$L12","$L13"]}]
+12:["$","nav",null,{"className":"project-pagination","aria-label":"Chuyển giữa các bài tập","children":[["$","$L5",null,{"href":"/projects/tim-kiem-danh-gia-hoc-thuat","className":"pagination-link pagination-link--prev","children":[["$","span",null,{"aria-hidden":"true","children":"←"}],["$","span",null,{"children":[["$","small",null,{"children":"Bài trước"}],"Thông tin học thuật"]}]]}],["$","$L5",null,{"href":"/projects/hop-tac-du-an-nhom","className":"pagination-link pagination-link--next","children":[["$","span",null,{"children":[["$","small",null,{"children":"Bài tiếp theo"}],"Hợp tác trực tuyến"]}],["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]
+13:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-copy","children":[["$","span",null,{"className":"footer-monogram","children":"KHP"}],["$","div",null,{"children":[["$","p",null,{"children":"Kiều Hoài Phương · Khoa Kinh tế phát triển · UEB, ĐHQGHN"}],["$","h2",null,{"children":"Học hỏi để phát triển, thực hành để trưởng thành."}]]}]]}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","className":"footer-email","children":[["$","span",null,{"children":"khoaiphuong16@gmail.com"}],["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"Kiều Hoài Phương · Portfolio Công nghệ số & AI"}],["$","meta","1",{"name":"description","content":"Portfolio 6 bài tập học phần Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo của Kiều Hoài Phương."}]]

@@ -1,0 +1,229 @@
+1:"$Sreact.fragment"
+2:I[58184,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MotionProvider"]
+3:I[39756,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[22016,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1rxncug86bump.js"],""]
+7:I[97367,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+f:I[68027,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/2i3rkhihtszgp.css","style"]
+0:{"P":null,"c":["","projects","tim-kiem-danh-gia-hoc-thuat",""],"q":"","i":false,"f":[[["",{"children":["projects",{"children":[["slug","tim-kiem-danh-gia-hoc-thuat","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2i3rkhihtszgp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-3iiw2z09wpg.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","children":["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"not-found","children":[["$","span",null,{"children":"404"}],["$","h1",null,{"children":"Trang này không nằm trong portfolio."}],["$","$L5",null,{"href":"/","children":"Trở về trang chủ"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/1rxncug86bump.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2i3rkhihtszgp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"RTurn41NPo-ffY__F8mMW"}
+10:[]
+a:"$W10"
+:HL["/assets/projects/p2/page-2.webp","image"]
+11:T2207,<p><strong>BÁO CÁO TÌM KIẾM VÀ ĐÁNH GIÁ HỌC THUẬT</strong></p>
+<p>Họ và tên : Kiều Hoài Phương</p>
+<p>Mã số sinh viên : 25050729</p>
+<p>Trường : Đại học kinh tế - ĐHQGHN</p>
+<p>Ngành : Kinh tế phát triển</p>
+<p>Học phần : Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo.</p>
+<p>Lớp : VNU1001_E252041</p>
+<p><strong>I. Chủ đề nghiên cứu</strong></p>
+<p>Tác động của xuất khẩu đến tăng trưởng kinh tế ở Việt Nam</p>
+<p><strong>II. Giới thiệu</strong></p>
+<p>Trong bối cảnh hội nhập kinh tế quốc tế, xuất khẩu ngày càng đóng vai
+trò quan trọng đối với tăng trưởng kinh tế của các quốc gia đang phát
+triển, trong đó có Việt Nam. Trong nhiều năm qua, xuất khẩu đã trở thành
+một trong những động lực chính thúc đẩy tăng trưởng GDP và chuyển dịch
+cơ cấu kinh tế. Vì vậy, việc nghiên cứu tác động của xuất khẩu đến tăng
+trưởng kinh tế Việt Nam có ý nghĩa quan trọng cả về lý luận và thực
+tiễn.</p>
+<p><strong>III. Phương pháp tìm kiếm thông tin</strong></p>
+<p>Để hoàn thành báo cáo, tôi đã thực hiện tìm kiếm qua các kênh
+sau:</p>
+<p>- Công cụ: Google Scholar, Thư viện số Đại học Kinh tế Quốc dân
+(NEU), Cổng thông tin Ngân hàng Thế giới (World Bank).</p>
+<p>- Từ khóa (Keywords): "Xuất khẩu và tăng trưởng kinh tế Việt Nam",
+"Export-led growth Vietnam", "Tác động của FTA đến GDP".</p>
+<p>- Tiêu chí chọn lọc: Ưu tiên bài báo khoa học đã qua bình duyệt
+(Peer-reviewed) trong 10 năm gần đây và các báo cáo chính thống từ các
+tổ chức quốc tế uy tín.</p>
+<p><strong>IV. Bảng tổng hợp và đánh giá độ tin cậy</strong></p>
+<div class="table-scroll"><table>
+<colgroup>
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+</colgroup>
+<thead>
+<tr class="header">
+<th>STT</th>
+<th>Loại nguồn</th>
+<th>Tên tài liệu</th>
+<th>Năm</th>
+<th>Tác giả / Tổ chức</th>
+<th>Độ tin cậy</th>
+<th>Lý do đánh giá</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Bài báo KH</td>
+<td>Mối quan hệ giữa xuất khẩu và tang trưởng kinh tế tại Việt Nam</td>
+<td>2021</td>
+<td>Nguyễn Thị Hường</td>
+<td>4/5</td>
+<td>Tạp chí uy tín trong nước (ĐH KTQD), có phản biện, phương pháp hồi
+quy chuỗi thời gian phù hợp</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Sách</td>
+<td>Tác động của xuất khẩu đến tăng trưởng kinh tế Việt Nam</td>
+<td>2019</td>
+<td><p>Bùi Văn Trịnh</p>
+<p>Nguyễn Thị Hường</p></td>
+<td>4/5</td>
+<td>Tác động của xuất khẩu đến tăng trưởng kinh tế Việt Nam Sách Bùi Văn
+Trịnh 4/5 NXB Đại học Kinh tế Quốc dân, tác giả PGS.TS đầu ngành, nội
+dung toàn diện</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Báo cáo</td>
+<td>Vietnam Development Report</td>
+<td>2022</td>
+<td>World Bank</td>
+<td>5/5</td>
+<td>Tổ chức quốc tế uy tín hàng đầu, dữ liệu đa quốc gia, phương pháp
+phân tích chuẩn mực</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Nguồn mở</td>
+<td>Báo cáo tình hình kinh tế - xã hội Việt Nam</td>
+<td>2023</td>
+<td>Tổng cục thống kê</td>
+<td>5/5</td>
+<td>Số liệu chính thống của Nhà nước Việt Nam, cập nhật hàng năm, độ tin
+cậy tuyệt đối</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Bài báo KH</td>
+<td>Export-led growth in Vietnam: An empirical analysis</td>
+<td>2018</td>
+<td>Nguyen, T.T. &amp; Nguyen, T.T.</td>
+<td>5/5</td>
+<td>Tạp chí Scopus Q2 (Journal of Asian Economics), phương pháp ARDL
+hiện đại, trích dẫn cao</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Sách</td>
+<td>Xuất khẩu, FDI và tăng trưởng kinh tế tại Việt Nam</td>
+<td>2021</td>
+<td>Đỗ Thị Huyền</td>
+<td>4/5</td>
+<td>NXB Chính trị Quốc gia, tác giả tiến sĩ, phân tích tổng hợp có hệ
+thống</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Bài báo KH</td>
+<td>Tác động của các FTA đến xuất khẩu Việt Nam</td>
+<td>2023</td>
+<td>Trần Ngọc Anh</td>
+<td>4/5</td>
+<td>Tính thời sự cao, phản ánh đúng bối cảnh hội nhập mới, tạp chí có
+phản biện</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Bài báo KH</td>
+<td>Cơ cấu mặt hàng xuất khẩu và tăng trưởng kinh tế</td>
+<td>2022</td>
+<td>Phạm Thị Mai Trang</td>
+<td>4/5</td>
+<td>Phân tích sâu về thực trạng ngành hàng, dữ liệu cập nhật, phù hợp
+nghiên cứu chuyên sâu</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Bài báo KH</td>
+<td>Mối quan hệ nhân quả giữa xuất khẩu và tăng trưởng kinh tế</td>
+<td>2020</td>
+<td>Lê Thanh Hà</td>
+<td>5/5</td>
+<td>Phương pháp kiểm định Granger và mô hình VECM chặt chẽ, tạp chí quốc
+tế uy tín</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>Báo cáo</td>
+<td>Trade Policy Review: Vietnam</td>
+<td>2021</td>
+<td>WTO</td>
+<td>5/5</td>
+<td>Tổ chức thương mại quốc tế uy tín, phân tích khách quan theo chuẩn
+mực quốc tế</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>Bài báo KH</td>
+<td>Exports and economic growth in Vietnam: A cointegration approach
+2017</td>
+<td>2017</td>
+<td>Tran, T.Q. &amp; Vo, D.H.</td>
+<td>5/5</td>
+<td>Tạp chí quốc tế uy tín, phương pháp VECM và kiểm định đồng liên kết,
+trích dẫn cao</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>IV. Phân tích và đánh giá</strong></p>
+<p>- Về độ tin cậy: 7 nguồn đạt 5/5 (tạp chí Scopus, tổ chức quốc tế, dữ
+liệu nhà nước), 4 nguồn đạt 4/5 (tạp chí trong nước, sách chuyên khảo).
+Đa số nguồn có độ tin cậy cao, đáp ứng tốt yêu cầu học thuật.</p>
+<p>- Về loại hình: Đa dạng gồm bài báo khoa học (6), sách chuyên khảo
+(2), báo cáo quốc tế (2), nguồn mở (1). Sự đa dạng này giúp có cái nhìn
+toàn diện từ nhiều góc độ.</p>
+<p>- Về phương pháp: Các bài báo quốc tế sử dụng mô hình kinh tế lượng
+hiện đại (ARDL, VECM, GMM), đảm bảo kết quả nghiên cứu có độ chính xác
+cao. Các nguồn trong nước tập trung phân tích bối cảnh Việt Nam, phù hợp
+cho nghiên cứu thực tiễn.</p>
+<p>- Về tính cập nhật: 9/11 nguồn trong 5 năm gần đây (2019-2023), đảm
+bảo phản ánh đúng bối cảnh hiện tại.</p>
+<p><strong>VI. Kết luận</strong></p>
+<p>Các nguồn tài liệu được tổng hợp đều có độ tin cậy cao, đáp ứng yêu
+cầu bài tập. Chủ đề xuất khẩu và tăng trưởng kinh tế tại Việt Nam có
+nguồn tài liệu phong phú, dễ tiếp cận, phù hợp sinh viên ngành Kinh tế
+phát triển.</p>
+<p><strong>VII. Danh mục tài liệu tham khảo</strong></p>
+<p>1. Bùi Văn Trịnh, 2019. Tác động của xuất khẩu đến tăng trưởng kinh
+tế Việt Nam. Hà Nội: Nhà xuất bản Đại học Kinh tế Quốc dân.</p>
+<p>2. Đỗ Thị Huyền, 2021. Xuất khẩu, FDI và tăng trưởng kinh tế tại Việt
+Nam. Hà Nội: Nhà xuất bản Chính trị Quốc gia.</p>
+<p>3. Lê Thanh Hà, 2020. Mối quan hệ nhân quả giữa xuất khẩu và tăng
+trưởng kinh tế. Tạp chí Kinh tế và Phát triển, số 295, tr.12-22.</p>
+<p>4. Nguyễn Thị Hường, 2021. Mối quan hệ giữa xuất khẩu và tăng trưởng
+kinh tế tại Việt Nam. Tạp chí Kinh tế và Phát triển, số 290,
+tr.23-32.</p>
+<p>5. Nguyen, T.T. and Nguyen, T.T., 2018. Export-led growth in Vietnam:
+An empirical analysis. Journal of Asian Economics, 55, pp.14-25.</p>
+<p>6. Phạm Thị Mai Trang, 2022. Cơ cấu mặt hàng xuất khẩu và tăng trưởng
+kinh tế. Tạp chí Kinh tế đối ngoại, số 135, tr.45-56.</p>
+<p>7. Tổng cục Thống kê, 2023. Báo cáo tình hình kinh tế - xã hội Việt
+Nam 2022. Hà Nội: Nhà xuất bản Thống kê.</p>
+<p>8. Trần Ngọc Anh, 2023. Tác động của các FTA đến xuất khẩu Việt Nam.
+Tạp chí Công Thương, số 8, tr.28-35.</p>
+<p>9. Tran, T.Q. and Vo, D.H., 2017. Exports and economic growth in
+Vietnam: A cointegration approach. Journal of Economic Development,
+42(3), pp.65-85.</p>
+<p>10. World Bank, 2022. Vietnam Development Report: Enhancing Inclusive
+Growth. Washington, D.C.: World Bank Group.</p>
+<p>11. WTO, 2021. Trade Policy Review: Vietnam. Geneva: World Trade
+Organizatio.</p>
+6:["$","main",null,{"className":"page-shell detail-page detail-page--blush","children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"site-header__inner","children":[["$","$L5",null,{"href":"/","className":"brand-mark","aria-label":"Trang chủ Kiều Hoài Phương","children":[["$","span",null,{"className":"brand-mark__monogram","children":"KHP"}],["$","span",null,{"className":"brand-mark__meta","children":[["$","strong",null,{"children":"Kiều Hoài Phương"}],["$","small",null,{"children":"Portfolio · 25050729"}]]}]]}],["$","nav",null,{"className":"site-nav","aria-label":"Điều hướng chính","children":[["$","$L5",null,{"href":"/#gioi-thieu","children":"Giới thiệu"}],["$","$L5",null,{"href":"/#du-an","children":"Bài tập"}],["$","$L5",null,{"href":"/#tong-ket","children":"Tổng kết"}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","children":"Liên hệ"}]]}],["$","a",null,{"className":"header-brief","href":"/downloads/de-bai-nhap-mon-cns-ai.pdf","target":"_blank","rel":"noreferrer","children":["Xem đề bài ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]}],["$","section",null,{"className":"detail-hero","children":[["$","div",null,{"className":"detail-hero__copy","data-reveal":true,"children":[["$","$L5",null,{"href":"/#du-an","className":"back-link","children":[["$","span",null,{"aria-hidden":"true","children":"←"}]," Quay lại danh sách"]}],["$","p",null,{"className":"detail-index","children":["Bài ","02"]}],["$","h1",null,{"children":"Tìm kiếm và đánh giá thông tin học thuật"}],["$","p",null,{"className":"detail-summary","children":"Nghiên cứu tác động của xuất khẩu đến tăng trưởng kinh tế Việt Nam và đánh giá hệ thống nguồn tham khảo."}],["$","div",null,{"className":"tag-row","children":[["$","span","Google Scholar",{"children":"Google Scholar"}],["$","span","Kinh tế phát triển",{"children":"Kinh tế phát triển"}],["$","span","Harvard",{"children":"Harvard"}]]}],["$","div",null,{"className":"detail-actions","children":[["$","a",null,{"href":"/downloads/bai-2.pdf","target":"_blank","rel":"noreferrer","className":"button-primary","children":["Mở PDF ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"/downloads/bai-2.docx","download":true,"className":"button-text","children":"Tải DOCX"}]]}]]}],["$","div",null,{"className":"detail-hero__visual","data-reveal":true,"children":[["$","span",null,{"className":"detail-big-number","children":"02"}],["$","figure",null,{"children":["$","img",null,{"src":"/assets/projects/p2/page-2.webp","alt":"Ảnh xem trước Tìm kiếm và đánh giá thông tin học thuật"}]}],["$","div",null,{"className":"detail-stamp","children":[4," trang"]}]]}]]}],["$","section",null,{"className":"project-brief section-pad","aria-label":"Tóm tắt bài tập","children":[["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Mục tiêu"}],["$","p",null,{"children":"Phát triển kỹ năng tìm kiếm và đánh giá nguồn học thuật đáng tin cậy cho một chủ đề gắn với ngành Kinh tế phát triển."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Quá trình"}],["$","p",null,{"children":"Mình tìm kiếm bằng Google Scholar, thư viện số NEU và cổng thông tin World Bank, sau đó sàng lọc theo tác giả, tổ chức xuất bản, phương pháp nghiên cứu, mức độ cập nhật và độ tin cậy."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Sản phẩm cuối"}],["$","p",null,{"children":"Báo cáo về tác động của xuất khẩu đến tăng trưởng kinh tế ở Việt Nam, kèm bảng đánh giá 11 nguồn và danh mục tài liệu tham khảo."}]]}]]}],["$","section",null,{"className":"document-section","children":[["$","aside",null,{"className":"reading-rail","children":[["$","span",null,{"children":"02"}],["$","h2",null,{"children":"Bài nộp gốc"}],["$","p",null,{"children":"Phần dưới giữ nguyên thứ tự nội dung, bảng và hình ảnh minh chứng từ tệp của sinh viên."}],["$","a",null,{"href":"/downloads/bai-2.pdf","target":"_blank","rel":"noreferrer","children":"Đọc bản PDF ↗"}]]}],["$","article",null,{"className":"document-paper","data-reveal":true,"children":["$","div",null,{"className":"document-body","dangerouslySetInnerHTML":{"__html":"$11"}}]}]]}],"$L12","$L13"]}]
+12:["$","nav",null,{"className":"project-pagination","aria-label":"Chuyển giữa các bài tập","children":[["$","$L5",null,{"href":"/projects/thao-tac-tep-tin-thu-muc","className":"pagination-link pagination-link--prev","children":[["$","span",null,{"aria-hidden":"true","children":"←"}],["$","span",null,{"children":[["$","small",null,{"children":"Bài trước"}],"Tệp tin và thư mục"]}]]}],["$","$L5",null,{"href":"/projects/viet-prompt-hieu-qua","className":"pagination-link pagination-link--next","children":[["$","span",null,{"children":[["$","small",null,{"children":"Bài tiếp theo"}],"Prompt học tập"]}],["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]
+13:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-copy","children":[["$","span",null,{"className":"footer-monogram","children":"KHP"}],["$","div",null,{"children":[["$","p",null,{"children":"Kiều Hoài Phương · Khoa Kinh tế phát triển · UEB, ĐHQGHN"}],["$","h2",null,{"children":"Học hỏi để phát triển, thực hành để trưởng thành."}]]}]]}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","className":"footer-email","children":[["$","span",null,{"children":"khoaiphuong16@gmail.com"}],["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+e:[["$","title","0",{"children":"Kiều Hoài Phương · Portfolio Công nghệ số & AI"}],["$","meta","1",{"name":"description","content":"Portfolio 6 bài tập học phần Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo của Kiều Hoài Phương."}]]
