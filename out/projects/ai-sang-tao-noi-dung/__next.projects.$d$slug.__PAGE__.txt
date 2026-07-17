@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1rxncug86bump.js"],""]
-8:I[97367,["/_next/static/chunks/0-3iiw2z09wpg.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/14mrh2-p_w84d.js","/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/1rxncug86bump.js"],""]
+8:I[97367,["/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
-:HL["/assets/projects/p5/image5.webp","image"]
-3:T16b9,<p><strong>BÁO CÁO: SỬ DỤNG AI TRONG SÁNG TẠO NỘI DUNG SỐ</strong></p>
+:HL["/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image5.webp","image"]
+3:T1821,<p><strong>BÁO CÁO: SỬ DỤNG AI TRONG SÁNG TẠO NỘI DUNG SỐ</strong></p>
 <p><strong>I. Giới thiệu</strong></p>
 <p>Trong thời đại công nghệ phát triển mạnh mẽ, trí tuệ nhân tạo (AI)
 ngày càng đóng vai trò quan trọng trong việc hỗ trợ con người sáng tạo
@@ -27,7 +27,7 @@ ngắn gọn, dễ hiểu”</p></li>
 </ul>
 <p><strong>Kết quả:</strong> Nội dung rõ ràng, logic, dễ sử dụng</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image1.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image1.webp" /></p>
 <p><strong>2. DALL·E / AI tạo ảnh (hoặc Canva AI Image)</strong></p>
 <ul>
 <li><p>Dùng để:</p>
@@ -39,9 +39,9 @@ clean modern style, soft colors, minimal design”</p></li>
 </ul>
 <p><strong>Kết quả:</strong> Ảnh sáng tạo, phù hợp nội dung</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image2.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image2.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image3.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image3.webp" /></p>
 <p><strong>3. Canva AI (thiết kế slide)</strong></p>
 <ul>
 <li><p>Dùng để:</p>
@@ -56,7 +56,7 @@ hình minh họa như này</p></li>
 </ul>
 <p><strong>Kết quả:</strong> Slide đẹp, có sẵn layout chuyên nghiệp</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image4.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image4.webp" /></p>
 <p><strong>IV. Quá trình thực hiện và bài hoàn thiện</strong></p>
 <ol type="1">
 <li><p>Lên ý tưởng bằng ChatGPT</p></li>
@@ -73,17 +73,17 @@ src="/assets/projects/p5/image4.webp" /></p>
 </ul>
 <p><strong>BÀI HOÀN THIỆN</strong></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image5.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image5.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image6.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image6.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image7.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image7.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image8.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image8.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image9.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image9.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/assets/projects/p5/image10.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image10.webp" /></p>
 <p><strong>V. So sánh các công cụ AI</strong></p>
 <div class="table-scroll"><table>
 <colgroup>
@@ -152,9 +152,9 @@ src="/assets/projects/p5/image10.webp" /></p>
 tiết kiệm thời gian và nâng cao chất lượng sản phẩm. Tuy nhiên, người
 dùng cần biết cách kết hợp với tư duy cá nhân để đạt kết quả tốt
 nhất</p>
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-shell detail-page detail-page--blush","children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"site-header__inner","children":[["$","$L2",null,{"href":"/","className":"brand-mark","aria-label":"Trang chủ Kiều Hoài Phương","children":[["$","span",null,{"className":"brand-mark__monogram","children":"KHP"}],["$","span",null,{"className":"brand-mark__meta","children":[["$","strong",null,{"children":"Kiều Hoài Phương"}],["$","small",null,{"children":"Portfolio · 25050729"}]]}]]}],["$","nav",null,{"className":"site-nav","aria-label":"Điều hướng chính","children":[["$","$L2",null,{"href":"/#gioi-thieu","children":"Giới thiệu"}],["$","$L2",null,{"href":"/#du-an","children":"Bài tập"}],["$","$L2",null,{"href":"/#tong-ket","children":"Tổng kết"}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","children":"Liên hệ"}]]}],["$","a",null,{"className":"header-brief","href":"/downloads/de-bai-nhap-mon-cns-ai.pdf","target":"_blank","rel":"noreferrer","children":["Xem đề bài ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]}],["$","section",null,{"className":"detail-hero","children":[["$","div",null,{"className":"detail-hero__copy","data-reveal":true,"children":[["$","$L2",null,{"href":"/#du-an","className":"back-link","children":[["$","span",null,{"aria-hidden":"true","children":"←"}]," Quay lại danh sách"]}],["$","p",null,{"className":"detail-index","children":["Bài ","05"]}],["$","h1",null,{"children":"Sử dụng AI tạo sinh để hỗ trợ sáng tạo nội dung"}],["$","p",null,{"className":"detail-summary","children":"Kết hợp ChatGPT, AI tạo ảnh và Canva AI để thiết kế bài thuyết trình về phương pháp Pomodoro."}],["$","div",null,{"className":"tag-row","children":[["$","span","Pomodoro",{"children":"Pomodoro"}],["$","span","Canva AI",{"children":"Canva AI"}],["$","span","AI tạo ảnh",{"children":"AI tạo ảnh"}]]}],["$","div",null,{"className":"detail-actions","children":[["$","a",null,{"href":"/downloads/bai-5.pdf","target":"_blank","rel":"noreferrer","className":"button-primary","children":["Mở PDF ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"/downloads/bai-5.docx","download":true,"className":"button-text","children":"Tải DOCX"}]]}]]}],["$","div",null,{"className":"detail-hero__visual","data-reveal":true,"children":[["$","span",null,{"className":"detail-big-number","children":"05"}],["$","figure",null,{"children":["$","img",null,{"src":"/assets/projects/p5/image5.webp","alt":"Ảnh xem trước Sử dụng AI tạo sinh để hỗ trợ sáng tạo nội dung"}]}],["$","div",null,{"className":"detail-stamp","children":[9," trang"]}]]}]]}],["$","section",null,{"className":"project-brief section-pad","aria-label":"Tóm tắt bài tập","children":[["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Mục tiêu"}],["$","p",null,{"children":"Khám phá cách nhiều công cụ AI có thể hỗ trợ các giai đoạn khác nhau của quá trình sáng tạo nội dung số."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Quá trình"}],["$","p",null,{"children":"Mình dùng ChatGPT để lên ý tưởng và viết nội dung, AI tạo ảnh để tạo hình minh họa, sau đó dùng Canva AI để xây dựng bố cục và chỉnh sửa lại sản phẩm."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Sản phẩm cuối"}],["$","p",null,{"children":"Một bài thuyết trình 6 slide về phương pháp Pomodoro, kèm prompt, phiên bản trung gian, bảng so sánh công cụ và phần phân tích vai trò của AI."}]]}]]}],["$","section",null,{"className":"document-section","children":[["$","aside",null,{"className":"reading-rail","children":[["$","span",null,{"children":"05"}],["$","h2",null,{"children":"Bài nộp gốc"}],["$","p",null,{"children":"Phần dưới giữ nguyên thứ tự nội dung, bảng và hình ảnh minh chứng từ tệp của sinh viên."}],["$","a",null,{"href":"/downloads/bai-5.pdf","target":"_blank","rel":"noreferrer","children":"Đọc bản PDF ↗"}]]}],["$","article",null,{"className":"document-paper","data-reveal":true,"children":["$","div",null,{"className":"document-body","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],"$L4","$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RTurn41NPo-ffY__F8mMW"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-shell detail-page detail-page--blush","children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"site-header__inner","children":[["$","$L2",null,{"href":"/","className":"brand-mark","aria-label":"Trang chủ Kiều Hoài Phương","children":[["$","span",null,{"className":"brand-mark__monogram","children":"KHP"}],["$","span",null,{"className":"brand-mark__meta","children":[["$","strong",null,{"children":"Kiều Hoài Phương"}],["$","small",null,{"children":"Portfolio · 25050729"}]]}]]}],["$","nav",null,{"className":"site-nav","aria-label":"Điều hướng chính","children":[["$","$L2",null,{"href":"/#gioi-thieu","children":"Giới thiệu"}],["$","$L2",null,{"href":"/#du-an","children":"Bài tập"}],["$","$L2",null,{"href":"/#tong-ket","children":"Tổng kết"}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","children":"Liên hệ"}]]}],["$","a",null,{"className":"header-brief","href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/de-bai-nhap-mon-cns-ai.pdf","target":"_blank","rel":"noreferrer","children":["Xem đề bài ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]}],["$","section",null,{"className":"detail-hero","children":[["$","div",null,{"className":"detail-hero__copy","data-reveal":true,"children":[["$","$L2",null,{"href":"/#du-an","className":"back-link","children":[["$","span",null,{"aria-hidden":"true","children":"←"}]," Quay lại danh sách"]}],["$","p",null,{"className":"detail-index","children":["Bài ","05"]}],["$","h1",null,{"children":"Sử dụng AI tạo sinh để hỗ trợ sáng tạo nội dung"}],["$","p",null,{"className":"detail-summary","children":"Kết hợp ChatGPT, AI tạo ảnh và Canva AI để thiết kế bài thuyết trình về phương pháp Pomodoro."}],["$","div",null,{"className":"tag-row","children":[["$","span","Pomodoro",{"children":"Pomodoro"}],["$","span","Canva AI",{"children":"Canva AI"}],["$","span","AI tạo ảnh",{"children":"AI tạo ảnh"}]]}],["$","div",null,{"className":"detail-actions","children":[["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/bai-5.pdf","target":"_blank","rel":"noreferrer","className":"button-primary","children":["Mở PDF ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/bai-5.docx","download":true,"className":"button-text","children":"Tải DOCX"}]]}]]}],["$","div",null,{"className":"detail-hero__visual","data-reveal":true,"children":[["$","span",null,{"className":"detail-big-number","children":"05"}],["$","figure",null,{"children":["$","img",null,{"src":"/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p5/image5.webp","alt":"Ảnh xem trước Sử dụng AI tạo sinh để hỗ trợ sáng tạo nội dung"}]}],["$","div",null,{"className":"detail-stamp","children":[9," trang"]}]]}]]}],["$","section",null,{"className":"project-brief section-pad","aria-label":"Tóm tắt bài tập","children":[["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Mục tiêu"}],["$","p",null,{"children":"Khám phá cách nhiều công cụ AI có thể hỗ trợ các giai đoạn khác nhau của quá trình sáng tạo nội dung số."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Quá trình"}],["$","p",null,{"children":"Mình dùng ChatGPT để lên ý tưởng và viết nội dung, AI tạo ảnh để tạo hình minh họa, sau đó dùng Canva AI để xây dựng bố cục và chỉnh sửa lại sản phẩm."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Sản phẩm cuối"}],["$","p",null,{"children":"Một bài thuyết trình 6 slide về phương pháp Pomodoro, kèm prompt, phiên bản trung gian, bảng so sánh công cụ và phần phân tích vai trò của AI."}]]}]]}],["$","section",null,{"className":"document-section","children":[["$","aside",null,{"className":"reading-rail","children":[["$","span",null,{"children":"05"}],["$","h2",null,{"children":"Bài nộp gốc"}],["$","p",null,{"children":"Phần dưới giữ nguyên thứ tự nội dung, bảng và hình ảnh minh chứng từ tệp của sinh viên."}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/bai-5.pdf","target":"_blank","rel":"noreferrer","children":"Đọc bản PDF ↗"}]]}],["$","article",null,{"className":"document-paper","data-reveal":true,"children":["$","div",null,{"className":"document-body","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],"$L4","$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"IR9gQ9F4bHfpW_gFphncP"}
 4:["$","nav",null,{"className":"project-pagination","aria-label":"Chuyển giữa các bài tập","children":[["$","$L2",null,{"href":"/projects/hop-tac-du-an-nhom","className":"pagination-link pagination-link--prev","children":[["$","span",null,{"aria-hidden":"true","children":"←"}],["$","span",null,{"children":[["$","small",null,{"children":"Bài trước"}],"Hợp tác trực tuyến"]}]]}],["$","$L2",null,{"href":"/projects/ai-co-trach-nhiem","className":"pagination-link pagination-link--next","children":[["$","span",null,{"children":[["$","small",null,{"children":"Bài tiếp theo"}],"AI có trách nhiệm"]}],["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]
 5:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-copy","children":[["$","span",null,{"className":"footer-monogram","children":"KHP"}],["$","div",null,{"children":[["$","p",null,{"children":"Kiều Hoài Phương · Khoa Kinh tế phát triển · UEB, ĐHQGHN"}],["$","h2",null,{"children":"Học hỏi để phát triển, thực hành để trưởng thành."}]]}]]}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","className":"footer-email","children":[["$","span",null,{"children":"khoaiphuong16@gmail.com"}],["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/1rxncug86bump.js","async":true}]
+6:["$","script","script-0",{"src":"/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/1rxncug86bump.js","async":true}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
