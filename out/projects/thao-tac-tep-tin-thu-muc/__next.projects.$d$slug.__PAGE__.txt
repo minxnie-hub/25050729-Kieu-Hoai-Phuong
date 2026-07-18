@@ -1,106 +1,105 @@
 1:"$Sreact.fragment"
-2:I[22016,["/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/14mrh2-p_w84d.js","/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/1rxncug86bump.js"],""]
-8:I[97367,["/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/25050729-Kieu-Hoai-Phuong/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong/_next/static/chunks/14mrh2-p_w84d.js","/25050729-Kieu-Hoai-Phuong/_next/static/chunks/1rxncug86bump.js"],""]
+8:I[97367,["/25050729-Kieu-Hoai-Phuong/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
-:HL["/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image5.webp","image"]
-3:T1958,<p>Bài 1: Thao tác cơ bản với tệp tin và thư mục</p>
+3:T1872,<p>Bài 1: Thao tác cơ bản với tệp tin và thư mục</p>
 <p>1.     <strong>Mở File Explorer:</strong> Nhấn tổ hợp phím Windows +
 E hoặc nhấp vào biểu tượng thư mục màu vàng trên thanh tác vụ.</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image5.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image5.webp" /></p>
 <p>2.     <strong>Truy cập ổ đĩa/thư mục:</strong> Ở cột bên trái, nhấp
 vào This PC, sau đó nhấp đúp vào một ổ đĩa không phải ổ hệ thống (ví dụ:
 ổ D: hoặc E:). Nếu chỉ có ổ C:, hãy vào thư mục Documents.</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image6.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image6.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image4.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image4.webp" /></p>
 <p>3.     <strong>Tạo thư mục mới:</strong> Nhấp chuột phải vào một
 khoảng trống -&gt; chọn New -&gt; Folder. Đặt tên thư mục là
 ThucHanh_hotensinhvien (ví dụ: ThucHanh_NguyenVanA). Nhấn Enter.</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image8.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image8.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image7.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image7.webp" /></p>
 <p>4.     <strong>Vào thư mục vừa tạo:</strong> Nhấp đúp vào thư mục
 ThucHanh_NguyenVanA.</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image10.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image10.webp" /></p>
 <p>5.     <strong>Tạo tệp tin văn bản:</strong> Nhấp chuột phải vào
 khoảng trống -&gt; New -&gt; Text Document. Đặt tên là GhiChu.txt. Nhấn
 Enter.</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image9.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image9.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image12.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image12.webp" /></p>
 <p>6.     <strong>Đổi tên tệp tin:</strong> Nhấp chuột phải vào tệp
 GhiChu.txt -&gt; chọn Rename. Đổi tên thành GhiChuQuanTrong.txt. Nhấn
 Enter.</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image11.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image11.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image15.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image15.webp" /></p>
 <p>7.     <strong>Tạo thư mục con:</strong> Trong thư mục
 ThucHanh_NguyenVanA, nhấp chuột phải -&gt; New -&gt; Folder. Đặt tên là
 TaiLieu<img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image13.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image13.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image14.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image14.webp" /></p>
 <p>8.     <strong>Sao chép tệp tin (Copy &amp; Paste):</strong></p>
 <ul>
 <li><p>Nhấp chuột phải vào tệp GhiChuQuanTrong.txt -&gt; chọn Copy (hoặc
 chọn tệp rồi nhấn Ctrl + C). <img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image16.webp" /></p></li>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image16.webp" /></p></li>
 <li><p>Nhấp đúp vào thư mục TaiLieu, nhấp chuột phải vào khoảng trống
 bên trong -&gt; chọn Paste (hoặc nhấn Ctrl + V). Bây giờ bạn có một bản
 sao của tệp trong thư mục TaiLieu.</p></li>
 </ul>
 <blockquote>
 <p>s<img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image17.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image17.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image18.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image18.webp" /></p>
 <p>9.     <strong>Di chuyển tệp tin (Cut &amp; Paste):</strong></p>
 </blockquote>
 <ul>
 <li><p>Quay lại thư mục ThucHanh_NguyenVanA. Tạo một tệp mới tên là
 DiChuyen.txt<img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image19.webp" /></p></li>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image19.webp" /></p></li>
 </ul>
 <blockquote>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image20.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image20.webp" /></p>
 </blockquote>
 <ul>
 <li><p>Nhấp chuột phải vào tệp DiChuyen.txt -&gt; chọn Cut (hoặc chọn
 tệp rồi nhấn Ctrl + X). <img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image21.webp" /></p></li>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image21.webp" /></p></li>
 </ul>
 <ul>
 <li><p>Nhấp đúp vào thư mục TaiLieu, nhấp chuột phải vào khoảng trống
 -&gt; chọn Paste (hoặc nhấn Ctrl + V). Tệp gốc đã biến mất khỏi vị trí
 cũ và chỉ còn ở vị trí mới<img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image22.webp" /></p></li>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image22.webp" /></p></li>
 </ul>
 <p>10. <strong>Xóa tệp tin:</strong> Trong thư mục TaiLieu, nhấp chuột
 phải vào tệp GhiChuQuanTrong.txt -&gt; chọn Delete. Tệp sẽ được chuyển
 vào Thùng rác (Recycle Bin). <img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image23.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image23.webp" /></p>
 <p>11. <strong>Xóa vĩnh viễn:</strong> Chọn tệp DiChuyen.txt, nhấn giữ
 phím Shift và nhấn phím Delete. Một cảnh báo sẽ hiện ra. Nếu đồng ý, tệp
 sẽ bị xóa vĩnh viễn mà không qua Thùng rác. <img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image1.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image1.webp" /></p>
 <p>12. <strong>Khôi phục từ Thùng rác (Tùy chọn):</strong> Tìm biểu
 tượng Recycle Bin trên màn hình nền, nhấp đúp để mở. Tìm tệp
 GhiChuQuanTrong.txt đã xóa, nhấp chuột phải vào nó và chọn Restore. Tệp
 sẽ quay trở lại vị trí ban đầu.</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image2.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image2.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image3.webp" /></p>
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-shell detail-page detail-page--lilac","children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"site-header__inner","children":[["$","$L2",null,{"href":"/","className":"brand-mark","aria-label":"Trang chủ Kiều Hoài Phương","children":[["$","span",null,{"className":"brand-mark__monogram","children":"KHP"}],["$","span",null,{"className":"brand-mark__meta","children":[["$","strong",null,{"children":"Kiều Hoài Phương"}],["$","small",null,{"children":"Portfolio · 25050729"}]]}]]}],["$","nav",null,{"className":"site-nav","aria-label":"Điều hướng chính","children":[["$","$L2",null,{"href":"/#gioi-thieu","children":"Giới thiệu"}],["$","$L2",null,{"href":"/#du-an","children":"Bài tập"}],["$","$L2",null,{"href":"/#tong-ket","children":"Tổng kết"}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","children":"Liên hệ"}]]}],["$","a",null,{"className":"header-brief","href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/de-bai-nhap-mon-cns-ai.pdf","target":"_blank","rel":"noreferrer","children":["Xem đề bài ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]}],["$","section",null,{"className":"detail-hero","children":[["$","div",null,{"className":"detail-hero__copy","data-reveal":true,"children":[["$","$L2",null,{"href":"/#du-an","className":"back-link","children":[["$","span",null,{"aria-hidden":"true","children":"←"}]," Quay lại danh sách"]}],["$","p",null,{"className":"detail-index","children":["Bài ","01"]}],["$","h1",null,{"children":"Thao tác cơ bản với tệp tin và thư mục"}],["$","p",null,{"className":"detail-summary","children":"Thực hành tạo, đổi tên, sao chép, di chuyển, xóa và khôi phục tệp trên Windows theo từng bước cụ thể."}],["$","div",null,{"className":"tag-row","children":[["$","span","File Explorer",{"children":"File Explorer"}],["$","span","Tổ chức dữ liệu",{"children":"Tổ chức dữ liệu"}],["$","span","Minh chứng",{"children":"Minh chứng"}]]}],["$","div",null,{"className":"detail-actions","children":[["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/bai-1.pdf","target":"_blank","rel":"noreferrer","className":"button-primary","children":["Mở PDF ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/bai-1.docx","download":true,"className":"button-text","children":"Tải DOCX"}]]}]]}],["$","div",null,{"className":"detail-hero__visual","data-reveal":true,"children":[["$","span",null,{"className":"detail-big-number","children":"01"}],["$","figure",null,{"children":["$","img",null,{"src":"/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p1/image5.webp","alt":"Ảnh xem trước Thao tác cơ bản với tệp tin và thư mục"}]}],["$","div",null,{"className":"detail-stamp","children":[13," trang"]}]]}]]}],["$","section",null,{"className":"project-brief section-pad","aria-label":"Tóm tắt bài tập","children":[["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Mục tiêu"}],["$","p",null,{"children":"Rèn luyện khả năng tổ chức dữ liệu cá nhân và sử dụng thành thạo những thao tác tệp tin, thư mục cơ bản trên Windows."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Quá trình"}],["$","p",null,{"children":"Mình thực hiện lần lượt 12 bước trong File Explorer, từ tạo thư mục ThucHanh đến sao chép, di chuyển, xóa vĩnh viễn và khôi phục tệp từ Recycle Bin."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Sản phẩm cuối"}],["$","p",null,{"children":"Một báo cáo 13 trang, trong đó mỗi thao tác đều đi kèm ảnh chụp màn hình để thể hiện rõ quá trình thực hiện."}]]}]]}],["$","section",null,{"className":"document-section","children":[["$","aside",null,{"className":"reading-rail","children":[["$","span",null,{"children":"01"}],["$","h2",null,{"children":"Bài nộp gốc"}],["$","p",null,{"children":"Phần dưới giữ nguyên thứ tự nội dung, bảng và hình ảnh minh chứng từ tệp của sinh viên."}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/bai-1.pdf","target":"_blank","rel":"noreferrer","children":"Đọc bản PDF ↗"}]]}],["$","article",null,{"className":"document-paper","data-reveal":true,"children":["$","div",null,{"className":"document-body","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],"$L4","$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"IR9gQ9F4bHfpW_gFphncP"}
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p1/image3.webp" /></p>
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main-content","className":"page-shell detail-page detail-page--lilac","children":[["$","header",null,{"className":"site-header","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Đi đến nội dung chính"}],["$","div",null,{"className":"site-header__inner","children":[["$","$L2",null,{"href":"/","className":"brand-mark","aria-label":"Trang chủ Kiều Hoài Phương","children":[["$","span",null,{"className":"brand-mark__monogram","children":"KHP"}],["$","span",null,{"className":"brand-mark__meta","children":[["$","strong",null,{"children":"Kiều Hoài Phương"}],["$","small",null,{"children":"Portfolio · 25050729"}]]}]]}],["$","nav",null,{"className":"site-nav","aria-label":"Điều hướng chính","children":[["$","$L2",null,{"href":"/#gioi-thieu","children":"Giới thiệu"}],["$","$L2",null,{"href":"/#du-an","children":"Bài tập"}],["$","$L2",null,{"href":"/#tong-ket","children":"Tổng kết"}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","children":"Liên hệ"}]]}],["$","a",null,{"className":"header-brief","href":"/25050729-Kieu-Hoai-Phuong/downloads/de-bai-nhap-mon-cns-ai.pdf","target":"_blank","rel":"noreferrer","children":["Xem đề bài ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}],["$","section",null,{"className":"detail-hero","children":["$","div",null,{"className":"detail-hero__copy","data-reveal":true,"children":[["$","$L2",null,{"href":"/#du-an","className":"back-link","children":[["$","span",null,{"aria-hidden":"true","children":"←"}]," Quay lại 6 bài tập"]}],["$","p",null,{"className":"detail-index","children":["Bài ","01"]}],["$","h1",null,{"children":"Thao tác cơ bản với tệp tin và thư mục"}],["$","p",null,{"className":"detail-summary","children":"Thực hành tạo, đổi tên, sao chép, di chuyển, xóa và khôi phục tệp trên Windows theo từng bước cụ thể."}],["$","p",null,{"className":"detail-meta","children":[13," trang · ","File Explorer · Tổ chức dữ liệu · Minh chứng"]}],["$","div",null,{"className":"detail-actions","children":[["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong/downloads/bai-1.pdf","target":"_blank","rel":"noreferrer","className":"button-primary","children":["Mở bản PDF ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong/downloads/bai-1.docx","download":true,"className":"button-text","children":"Tải bản DOCX"}]]}]]}]}],["$","section",null,{"className":"project-brief","aria-label":"Tóm tắt bài tập","children":[["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Mục tiêu"}],["$","p",null,{"children":"Rèn luyện khả năng tổ chức dữ liệu cá nhân và sử dụng thành thạo những thao tác tệp tin, thư mục cơ bản trên Windows."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Quá trình thực hiện"}],["$","p",null,{"children":"Mình thực hiện lần lượt 12 bước trong File Explorer, từ tạo thư mục ThucHanh đến sao chép, di chuyển, xóa vĩnh viễn và khôi phục tệp từ Recycle Bin."}]]}],["$","article",null,{"className":"project-brief__takeaway","data-reveal":true,"children":[["$","span",null,{"children":"Tổng kết rút ra"}],["$","p",null,{"children":"Sau bài này, mình phân biệt rõ sao chép và di chuyển, đồng thời biết tổ chức tệp có quy tắc để dễ tìm, dễ kiểm tra và hạn chế mất dữ liệu."}]]}]]}],["$","section",null,{"className":"document-section","aria-labelledby":"document-title","children":[["$","aside",null,{"className":"reading-rail","children":[["$","p",null,{"className":"section-kicker","children":"Nội dung gốc"}],["$","h2",null,{"id":"document-title","children":"Bài nộp đầy đủ"}],["$","p",null,{"children":"Phần dưới giữ nguyên nội dung, thứ tự bảng và hình ảnh minh chứng từ tệp của sinh viên."}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong/downloads/bai-1.pdf","target":"_blank","rel":"noreferrer","children":"Đọc bản PDF ↗"}]]}],["$","article",null,{"className":"document-paper","data-reveal":true,"children":["$","div",null,{"className":"document-body","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],"$L4","$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XeD0Wrq4R3RAoP_HzQuMk"}
 4:["$","nav",null,{"className":"project-pagination","aria-label":"Chuyển giữa các bài tập","children":[["$","span",null,{}],["$","$L2",null,{"href":"/projects/tim-kiem-danh-gia-hoc-thuat","className":"pagination-link pagination-link--next","children":[["$","span",null,{"children":[["$","small",null,{"children":"Bài tiếp theo"}],"Thông tin học thuật"]}],["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]
 5:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-copy","children":[["$","span",null,{"className":"footer-monogram","children":"KHP"}],["$","div",null,{"children":[["$","p",null,{"children":"Kiều Hoài Phương · Khoa Kinh tế phát triển · UEB, ĐHQGHN"}],["$","h2",null,{"children":"Học hỏi để phát triển, thực hành để trưởng thành."}]]}]]}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","className":"footer-email","children":[["$","span",null,{"children":"khoaiphuong16@gmail.com"}],["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
-6:["$","script","script-0",{"src":"/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/1rxncug86bump.js","async":true}]
+6:["$","script","script-0",{"src":"/25050729-Kieu-Hoai-Phuong/_next/static/chunks/1rxncug86bump.js","async":true}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null

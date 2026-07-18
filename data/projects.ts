@@ -14,6 +14,7 @@ export type Project = {
   goal: string;
   process: string;
   deliverable: string;
+  takeaway: string;
   tags: string[];
 };
 
@@ -41,6 +42,7 @@ export const projects: Project[] = [
     goal: "Rèn luyện khả năng tổ chức dữ liệu cá nhân và sử dụng thành thạo những thao tác tệp tin, thư mục cơ bản trên Windows.",
     process: "Mình thực hiện lần lượt 12 bước trong File Explorer, từ tạo thư mục ThucHanh đến sao chép, di chuyển, xóa vĩnh viễn và khôi phục tệp từ Recycle Bin.",
     deliverable: "Một báo cáo 13 trang, trong đó mỗi thao tác đều đi kèm ảnh chụp màn hình để thể hiện rõ quá trình thực hiện.",
+    takeaway: "Sau bài này, mình phân biệt rõ sao chép và di chuyển, đồng thời biết tổ chức tệp có quy tắc để dễ tìm, dễ kiểm tra và hạn chế mất dữ liệu.",
     tags: ["File Explorer", "Tổ chức dữ liệu", "Minh chứng"],
   },
   {
@@ -62,6 +64,7 @@ export const projects: Project[] = [
     goal: "Phát triển kỹ năng tìm kiếm và đánh giá nguồn học thuật đáng tin cậy cho một chủ đề gắn với ngành Kinh tế phát triển.",
     process: "Mình tìm kiếm bằng Google Scholar, thư viện số NEU và cổng thông tin World Bank, sau đó sàng lọc theo tác giả, tổ chức xuất bản, phương pháp nghiên cứu, mức độ cập nhật và độ tin cậy.",
     deliverable: "Báo cáo về tác động của xuất khẩu đến tăng trưởng kinh tế ở Việt Nam, kèm bảng đánh giá 11 nguồn và danh mục tài liệu tham khảo.",
+    takeaway: "Mình hiểu rằng một nguồn phù hợp chưa chắc đã đáng tin; cần xem xét tác giả, đơn vị xuất bản, phương pháp, mức độ cập nhật và khả năng kiểm chứng.",
     tags: ["Google Scholar", "Kinh tế phát triển", "Harvard"],
   },
   {
@@ -87,6 +90,7 @@ export const projects: Project[] = [
     goal: "Hiểu cách độ rõ ràng, ngữ cảnh, vai trò và định dạng đầu ra ảnh hưởng trực tiếp đến chất lượng câu trả lời của AI.",
     process: "Với mỗi tác vụ, mình viết prompt cơ bản, prompt cải tiến và prompt nâng cao, sau đó thử nghiệm trên ChatGPT và so sánh kết quả theo độ rõ ràng, chi tiết và khả năng ứng dụng.",
     deliverable: "Báo cáo thử nghiệm ba tác vụ, bảng so sánh ba cấp độ prompt và các ảnh chụp đầu ra thực tế.",
+    takeaway: "Prompt hiệu quả không đơn thuần là prompt dài hơn. Kết quả tốt hơn khi yêu cầu có mục tiêu, ngữ cảnh, đối tượng, ràng buộc và định dạng đầu ra rõ ràng.",
     tags: ["ChatGPT", "Prompt engineering", "So sánh"],
   },
   {
@@ -112,6 +116,7 @@ export const projects: Project[] = [
     goal: "Rèn luyện cách phân công, theo dõi tiến độ, chia sẻ tài nguyên và giao tiếp trong một dự án nhóm trên môi trường số.",
     process: "Trong 7 ngày, nhóm sử dụng Google Docs để cộng tác nội dung, Google Drive để lưu trữ tài liệu và Google Meet để họp, rà soát và tổng duyệt bài thuyết trình.",
     deliverable: "Báo cáo quy trình làm việc nhóm, bảng phân công nhiệm vụ, nhật ký 7 ngày, minh chứng và phần đánh giá ưu điểm, hạn chế của từng công cụ.",
+    takeaway: "Công cụ trực tuyến chỉ phát huy hiệu quả khi nhóm thống nhất vai trò, thời hạn, cách đặt tên tệp và quy trình cập nhật tiến độ ngay từ đầu.",
     tags: ["Google Docs", "Google Drive", "Google Meet"],
   },
   {
@@ -137,6 +142,7 @@ export const projects: Project[] = [
     goal: "Khám phá cách nhiều công cụ AI có thể hỗ trợ các giai đoạn khác nhau của quá trình sáng tạo nội dung số.",
     process: "Mình dùng ChatGPT để lên ý tưởng và viết nội dung, AI tạo ảnh để tạo hình minh họa, sau đó dùng Canva AI để xây dựng bố cục và chỉnh sửa lại sản phẩm.",
     deliverable: "Một bài thuyết trình 6 slide về phương pháp Pomodoro, kèm prompt, phiên bản trung gian, bảng so sánh công cụ và phần phân tích vai trò của AI.",
+    takeaway: "AI giúp rút ngắn thời gian lên ý tưởng, nhưng sản phẩm chỉ phù hợp khi mình chủ động chọn lọc, rút gọn, chỉnh bố cục và bổ sung góc nhìn cá nhân.",
     tags: ["Pomodoro", "Canva AI", "AI tạo ảnh"],
   },
   {
@@ -158,6 +164,7 @@ export const projects: Project[] = [
     goal: "Xây dựng nhận thức về liêm chính học thuật, bản quyền, minh bạch và trách nhiệm của người học khi sử dụng AI.",
     process: "Mình nghiên cứu định hướng sử dụng AI, thực hiện một nhiệm vụ thuyết trình với ba prompt, kiểm chứng và chỉnh sửa đầu ra, sau đó phân tích các vấn đề đạo đức liên quan.",
     deliverable: "Báo cáo 5 trang, bộ 7 nguyên tắc cá nhân và infographic về sử dụng AI có trách nhiệm trong học thuật.",
+    takeaway: "Mình xác định AI là công cụ hỗ trợ, không thay thế tư duy. Mọi đầu ra cần được kiểm chứng, chỉnh sửa và trích dẫn minh bạch trước khi sử dụng.",
     tags: ["Liêm chính học thuật", "Minh bạch", "Tư duy độc lập"],
   },
 ];

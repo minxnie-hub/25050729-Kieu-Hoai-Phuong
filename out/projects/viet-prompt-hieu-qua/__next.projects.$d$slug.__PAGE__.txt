@@ -1,9 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22016,["/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/14mrh2-p_w84d.js","/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/1rxncug86bump.js"],""]
-8:I[97367,["/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[22016,["/25050729-Kieu-Hoai-Phuong/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong/_next/static/chunks/14mrh2-p_w84d.js","/25050729-Kieu-Hoai-Phuong/_next/static/chunks/1rxncug86bump.js"],""]
+8:I[97367,["/25050729-Kieu-Hoai-Phuong/_next/static/chunks/0-3iiw2z09wpg.js","/25050729-Kieu-Hoai-Phuong/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
-:HL["/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image3.webp","image"]
-3:T2eae,<h2 id="trường-đại-học-kinh-tế---đhqghn"><strong>Trường Đại học Kinh Tế
+3:T2e40,<h2 id="trường-đại-học-kinh-tế---đhqghn"><strong>Trường Đại học Kinh Tế
 - ĐHQGHN</strong></h2>
 <h2
 id="môn-học-nhập-môn-công-nghệ-số-và-ứng-dụng-trí-tuệ-nhân-tạo."><strong>Môn
@@ -49,24 +48,24 @@ trường là nhiệm vụ cấp bách của toàn nhân loại.</p>
 <h4 id="prompt-cơ-bản-tóm-tắt-đoạn-văn-sau"><strong>Prompt cơ
 bản:</strong> Tóm tắt đoạn văn sau</h4>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image3.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image3.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image10.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image10.webp" /></p>
 <h4
 id="prompt-cải-tiến-hãy-tóm-tắt-đoạn-văn-sau-thành-5-câu-giữ-lại-ý-chính-và-viết-ngắn-gọn-dễ-hiểu"><strong>Prompt
 cải tiến:</strong> Hãy tóm tắt đoạn văn sau thành 5 câu, giữ lại ý chính
 và viết ngắn gọn, dễ hiểu:</h4>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image9.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image9.webp" /></p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image5.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image5.webp" /></p>
 <h4
 id="prompt-nâng-cao-bạn-là-sinh-viên.-hãy-tóm-tắt-đoạn-văn-sau-thành-5-ý-chính-dưới-dạng-gạch-đầu-dòng-ưu-tiên-thông-tin-quan-trọng-và-sử-dụng-ngôn-ngữ-đơn-giản"><strong>Prompt
 nâng cao:</strong> Bạn là sinh viên. Hãy tóm tắt đoạn văn sau thành 5 ý
 chính dưới dạng gạch đầu dòng, ưu tiên thông tin quan trọng và sử dụng
 ngôn ngữ đơn giản</h4>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image7.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image7.webp" /></p>
 <h4 id="nhận-xét"><strong>Nhận xét:</strong></h4>
 <ul>
 <li><p>Prompt cơ bản: kết quả chung chung</p></li>
@@ -78,19 +77,19 @@ khái niệm</strong></h3>
 <h4 id="prompt-cơ-bản"> <strong>Prompt cơ bản:</strong></h4>
 <p>Giải thích khái niệm “toàn cầu hóa”</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image1.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image1.webp" /></p>
 <h4 id="prompt-cải-tiến"> <strong>Prompt cải tiến:</strong></h4>
 <p>Hãy giải thích khái niệm “toàn cầu hóa” một cách đơn giản, dễ hiểu,
 kèm ví dụ</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image11.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image11.webp" /></p>
 <h4
 id="prompt-nâng-cao-bạn-là-giáo-viên.-hãy-giải-thích-khái-niệm-toàn-cầu-hóa-cho-học-sinh-cấp-3-có-ví-dụ-minh-họa-và-so-sánh-ngắn">
 <strong>Prompt nâng cao:</strong> Bạn là giáo viên. Hãy giải thích khái
 niệm “toàn cầu hóa” cho học sinh cấp 3, có ví dụ minh họa và so sánh
 ngắn</h4>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image4.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image4.webp" /></p>
 <h4 id="nhận-xét-1"><strong>Nhận xét:</strong></h4>
 <ul>
 <li><p><strong>IV. So sánh kết quả</strong></p></li>
@@ -101,18 +100,18 @@ src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image4.webp" /></p>
 <h4 id="prompt-cơ-bản-tạo-câu-hỏi-về-biến-đổi-khí-hậu"> <strong>Prompt
 cơ bản:</strong> Tạo câu hỏi về biến đổi khí hậu</h4>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image2.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image2.webp" /></p>
 <h4
 id="prompt-cải-tiến-hãy-tạo-5-câu-hỏi-trắc-nghiệm-về-biến-đổi-khí-hậu-mỗi-câu-có-4-đáp-án">
 <strong>Prompt cải tiến:</strong> Hãy tạo 5 câu hỏi trắc nghiệm về biến
 đổi khí hậu, mỗi câu có 4 đáp án</h4>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image8.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image8.webp" /></p>
 <p><strong>Prompt nâng cao:</strong> Bạn là giáo viên. Hãy tạo 5 câu hỏi
 trắc nghiệm về biến đổi khí hậu, mỗi câu có 4 đáp án và chỉ ra đáp án
 đúng kèm giải thích, mức độ từ dễ đến trung bình</p>
 <p><img loading="lazy" alt="Minh chứng trong bài báo cáo"
-src="/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image6.webp" /></p>
+src="/25050729-Kieu-Hoai-Phuong/assets/projects/p3/image6.webp" /></p>
 <h4 id="nhận-xét-2"> <strong>Nhận xét:</strong></h4>
 <ul>
 <li><p>Prompt càng chi tiết → càng dễ dùng ngay</p></li>
@@ -230,9 +229,9 @@ hơn.</p>
 cần biết cách viết prompt một cách chi tiết và có mục tiêu rõ ràng.
 Trong tương lai, tôi sẽ áp dụng kỹ năng này để nâng cao hiệu quả học tập
 của bản thân.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-shell detail-page detail-page--lilac","children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"site-header__inner","children":[["$","$L2",null,{"href":"/","className":"brand-mark","aria-label":"Trang chủ Kiều Hoài Phương","children":[["$","span",null,{"className":"brand-mark__monogram","children":"KHP"}],["$","span",null,{"className":"brand-mark__meta","children":[["$","strong",null,{"children":"Kiều Hoài Phương"}],["$","small",null,{"children":"Portfolio · 25050729"}]]}]]}],["$","nav",null,{"className":"site-nav","aria-label":"Điều hướng chính","children":[["$","$L2",null,{"href":"/#gioi-thieu","children":"Giới thiệu"}],["$","$L2",null,{"href":"/#du-an","children":"Bài tập"}],["$","$L2",null,{"href":"/#tong-ket","children":"Tổng kết"}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","children":"Liên hệ"}]]}],["$","a",null,{"className":"header-brief","href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/de-bai-nhap-mon-cns-ai.pdf","target":"_blank","rel":"noreferrer","children":["Xem đề bài ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]}],["$","section",null,{"className":"detail-hero","children":[["$","div",null,{"className":"detail-hero__copy","data-reveal":true,"children":[["$","$L2",null,{"href":"/#du-an","className":"back-link","children":[["$","span",null,{"aria-hidden":"true","children":"←"}]," Quay lại danh sách"]}],["$","p",null,{"className":"detail-index","children":["Bài ","03"]}],["$","h1",null,{"children":"Viết prompt hiệu quả cho các tác vụ học tập"}],["$","p",null,{"className":"detail-summary","children":"Thử nghiệm ba cấp độ prompt cho tóm tắt, giải thích khái niệm và tạo câu hỏi ôn tập."}],["$","div",null,{"className":"tag-row","children":[["$","span","ChatGPT",{"children":"ChatGPT"}],["$","span","Prompt engineering",{"children":"Prompt engineering"}],["$","span","So sánh",{"children":"So sánh"}]]}],["$","div",null,{"className":"detail-actions","children":[["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/bai-3.pdf","target":"_blank","rel":"noreferrer","className":"button-primary","children":["Mở PDF ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/bai-3.docx","download":true,"className":"button-text","children":"Tải DOCX"}]]}]]}],["$","div",null,{"className":"detail-hero__visual","data-reveal":true,"children":[["$","span",null,{"className":"detail-big-number","children":"03"}],["$","figure",null,{"children":["$","img",null,{"src":"/25050729-Kieu-Hoai-Phuong-portfolio/assets/projects/p3/image3.webp","alt":"Ảnh xem trước Viết prompt hiệu quả cho các tác vụ học tập"}]}],["$","div",null,{"className":"detail-stamp","children":[9," trang"]}]]}]]}],["$","section",null,{"className":"project-brief section-pad","aria-label":"Tóm tắt bài tập","children":[["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Mục tiêu"}],["$","p",null,{"children":"Hiểu cách độ rõ ràng, ngữ cảnh, vai trò và định dạng đầu ra ảnh hưởng trực tiếp đến chất lượng câu trả lời của AI."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Quá trình"}],["$","p",null,{"children":"Với mỗi tác vụ, mình viết prompt cơ bản, prompt cải tiến và prompt nâng cao, sau đó thử nghiệm trên ChatGPT và so sánh kết quả theo độ rõ ràng, chi tiết và khả năng ứng dụng."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Sản phẩm cuối"}],["$","p",null,{"children":"Báo cáo thử nghiệm ba tác vụ, bảng so sánh ba cấp độ prompt và các ảnh chụp đầu ra thực tế."}]]}]]}],["$","section",null,{"className":"document-section","children":[["$","aside",null,{"className":"reading-rail","children":[["$","span",null,{"children":"03"}],["$","h2",null,{"children":"Bài nộp gốc"}],["$","p",null,{"children":"Phần dưới giữ nguyên thứ tự nội dung, bảng và hình ảnh minh chứng từ tệp của sinh viên."}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong-portfolio/downloads/bai-3.pdf","target":"_blank","rel":"noreferrer","children":"Đọc bản PDF ↗"}]]}],["$","article",null,{"className":"document-paper","data-reveal":true,"children":["$","div",null,{"className":"document-body","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],"$L4","$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"IR9gQ9F4bHfpW_gFphncP"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main-content","className":"page-shell detail-page detail-page--lilac","children":[["$","header",null,{"className":"site-header","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Đi đến nội dung chính"}],["$","div",null,{"className":"site-header__inner","children":[["$","$L2",null,{"href":"/","className":"brand-mark","aria-label":"Trang chủ Kiều Hoài Phương","children":[["$","span",null,{"className":"brand-mark__monogram","children":"KHP"}],["$","span",null,{"className":"brand-mark__meta","children":[["$","strong",null,{"children":"Kiều Hoài Phương"}],["$","small",null,{"children":"Portfolio · 25050729"}]]}]]}],["$","nav",null,{"className":"site-nav","aria-label":"Điều hướng chính","children":[["$","$L2",null,{"href":"/#gioi-thieu","children":"Giới thiệu"}],["$","$L2",null,{"href":"/#du-an","children":"Bài tập"}],["$","$L2",null,{"href":"/#tong-ket","children":"Tổng kết"}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","children":"Liên hệ"}]]}],["$","a",null,{"className":"header-brief","href":"/25050729-Kieu-Hoai-Phuong/downloads/de-bai-nhap-mon-cns-ai.pdf","target":"_blank","rel":"noreferrer","children":["Xem đề bài ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}],["$","section",null,{"className":"detail-hero","children":["$","div",null,{"className":"detail-hero__copy","data-reveal":true,"children":[["$","$L2",null,{"href":"/#du-an","className":"back-link","children":[["$","span",null,{"aria-hidden":"true","children":"←"}]," Quay lại 6 bài tập"]}],["$","p",null,{"className":"detail-index","children":["Bài ","03"]}],["$","h1",null,{"children":"Viết prompt hiệu quả cho các tác vụ học tập"}],["$","p",null,{"className":"detail-summary","children":"Thử nghiệm ba cấp độ prompt cho tóm tắt, giải thích khái niệm và tạo câu hỏi ôn tập."}],["$","p",null,{"className":"detail-meta","children":[9," trang · ","ChatGPT · Prompt engineering · So sánh"]}],["$","div",null,{"className":"detail-actions","children":[["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong/downloads/bai-3.pdf","target":"_blank","rel":"noreferrer","className":"button-primary","children":["Mở bản PDF ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong/downloads/bai-3.docx","download":true,"className":"button-text","children":"Tải bản DOCX"}]]}]]}]}],["$","section",null,{"className":"project-brief","aria-label":"Tóm tắt bài tập","children":[["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Mục tiêu"}],["$","p",null,{"children":"Hiểu cách độ rõ ràng, ngữ cảnh, vai trò và định dạng đầu ra ảnh hưởng trực tiếp đến chất lượng câu trả lời của AI."}]]}],["$","article",null,{"data-reveal":true,"children":[["$","span",null,{"children":"Quá trình thực hiện"}],["$","p",null,{"children":"Với mỗi tác vụ, mình viết prompt cơ bản, prompt cải tiến và prompt nâng cao, sau đó thử nghiệm trên ChatGPT và so sánh kết quả theo độ rõ ràng, chi tiết và khả năng ứng dụng."}]]}],["$","article",null,{"className":"project-brief__takeaway","data-reveal":true,"children":[["$","span",null,{"children":"Tổng kết rút ra"}],["$","p",null,{"children":"Prompt hiệu quả không đơn thuần là prompt dài hơn. Kết quả tốt hơn khi yêu cầu có mục tiêu, ngữ cảnh, đối tượng, ràng buộc và định dạng đầu ra rõ ràng."}]]}]]}],["$","section",null,{"className":"document-section","aria-labelledby":"document-title","children":[["$","aside",null,{"className":"reading-rail","children":[["$","p",null,{"className":"section-kicker","children":"Nội dung gốc"}],["$","h2",null,{"id":"document-title","children":"Bài nộp đầy đủ"}],["$","p",null,{"children":"Phần dưới giữ nguyên nội dung, thứ tự bảng và hình ảnh minh chứng từ tệp của sinh viên."}],["$","a",null,{"href":"/25050729-Kieu-Hoai-Phuong/downloads/bai-3.pdf","target":"_blank","rel":"noreferrer","children":"Đọc bản PDF ↗"}]]}],["$","article",null,{"className":"document-paper","data-reveal":true,"children":["$","div",null,{"className":"document-body","dangerouslySetInnerHTML":{"__html":"$3"}}]}]]}],"$L4","$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XeD0Wrq4R3RAoP_HzQuMk"}
 4:["$","nav",null,{"className":"project-pagination","aria-label":"Chuyển giữa các bài tập","children":[["$","$L2",null,{"href":"/projects/tim-kiem-danh-gia-hoc-thuat","className":"pagination-link pagination-link--prev","children":[["$","span",null,{"aria-hidden":"true","children":"←"}],["$","span",null,{"children":[["$","small",null,{"children":"Bài trước"}],"Thông tin học thuật"]}]]}],["$","$L2",null,{"href":"/projects/hop-tac-du-an-nhom","className":"pagination-link pagination-link--next","children":[["$","span",null,{"children":[["$","small",null,{"children":"Bài tiếp theo"}],"Hợp tác trực tuyến"]}],["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]
 5:["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-copy","children":[["$","span",null,{"className":"footer-monogram","children":"KHP"}],["$","div",null,{"children":[["$","p",null,{"children":"Kiều Hoài Phương · Khoa Kinh tế phát triển · UEB, ĐHQGHN"}],["$","h2",null,{"children":"Học hỏi để phát triển, thực hành để trưởng thành."}]]}]]}],["$","a",null,{"href":"mailto:khoaiphuong16@gmail.com","className":"footer-email","children":[["$","span",null,{"children":"khoaiphuong16@gmail.com"}],["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]
-6:["$","script","script-0",{"src":"/25050729-Kieu-Hoai-Phuong-portfolio/_next/static/chunks/1rxncug86bump.js","async":true}]
+6:["$","script","script-0",{"src":"/25050729-Kieu-Hoai-Phuong/_next/static/chunks/1rxncug86bump.js","async":true}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null

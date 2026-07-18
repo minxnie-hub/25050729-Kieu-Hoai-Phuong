@@ -22,45 +22,34 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
   const projectNumber = Number(project.number);
 
   return (
-    <main className={`page-shell detail-page detail-page--${project.accent}`}>
+    <main id="main-content" className={`page-shell detail-page detail-page--${project.accent}`}>
       <SiteHeader />
+
       <section className="detail-hero">
         <div className="detail-hero__copy" data-reveal>
-          <Link href="/#du-an" className="back-link"><span aria-hidden="true">←</span> Quay lại danh sách</Link>
+          <Link href="/#du-an" className="back-link"><span aria-hidden="true">←</span> Quay lại 6 bài tập</Link>
           <p className="detail-index">Bài {project.number}</p>
           <h1>{project.title}</h1>
           <p className="detail-summary">{project.summary}</p>
-          <div className="tag-row">
-            {project.tags.map((tag) => <span key={tag}>{tag}</span>)}
-          </div>
+          <p className="detail-meta">{project.pages} trang · {project.tags.join(" · ")}</p>
           <div className="detail-actions">
-            <a href={withBasePath(`/downloads/bai-${projectNumber}.pdf`)} target="_blank" rel="noreferrer" className="button-primary">Mở PDF <span aria-hidden="true">↗</span></a>
-            <a href={withBasePath(`/downloads/bai-${projectNumber}.docx`)} download className="button-text">Tải DOCX</a>
+            <a href={withBasePath(`/downloads/bai-${projectNumber}.pdf`)} target="_blank" rel="noreferrer" className="button-primary">Mở bản PDF <span aria-hidden="true">↗</span></a>
+            <a href={withBasePath(`/downloads/bai-${projectNumber}.docx`)} download className="button-text">Tải bản DOCX</a>
           </div>
-        </div>
-        <div className="detail-hero__visual" data-reveal>
-          <div className="detail-visual-head">
-            <span>Bài {project.number}</span>
-            <span>{project.pages} trang</span>
-          </div>
-          <figure>
-            <img src={withBasePath(project.previewImages[0])} alt={`Ảnh xem trước ${project.title}`} />
-          </figure>
-          <p className="detail-visual-caption">Trích từ bài nộp gốc của sinh viên</p>
         </div>
       </section>
 
-      <section className="project-brief section-pad" aria-label="Tóm tắt bài tập">
+      <section className="project-brief" aria-label="Tóm tắt bài tập">
         <article data-reveal><span>Mục tiêu</span><p>{project.goal}</p></article>
-        <article data-reveal><span>Quá trình</span><p>{project.process}</p></article>
-        <article data-reveal><span>Sản phẩm cuối</span><p>{project.deliverable}</p></article>
+        <article data-reveal><span>Quá trình thực hiện</span><p>{project.process}</p></article>
+        <article className="project-brief__takeaway" data-reveal><span>Tổng kết rút ra</span><p>{project.takeaway}</p></article>
       </section>
 
-      <section className="document-section">
+      <section className="document-section" aria-labelledby="document-title">
         <aside className="reading-rail">
-          <span>{project.number}</span>
-          <h2>Bài nộp gốc</h2>
-          <p>Phần dưới giữ nguyên thứ tự nội dung, bảng và hình ảnh minh chứng từ tệp của sinh viên.</p>
+          <p className="section-kicker">Nội dung gốc</p>
+          <h2 id="document-title">Bài nộp đầy đủ</h2>
+          <p>Phần dưới giữ nguyên nội dung, thứ tự bảng và hình ảnh minh chứng từ tệp của sinh viên.</p>
           <a href={withBasePath(`/downloads/bai-${projectNumber}.pdf`)} target="_blank" rel="noreferrer">Đọc bản PDF ↗</a>
         </aside>
         <article className="document-paper" data-reveal>

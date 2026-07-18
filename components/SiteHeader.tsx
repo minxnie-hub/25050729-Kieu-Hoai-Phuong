@@ -4,6 +4,7 @@ import { withBasePath } from "@/lib/paths";
 export function SiteHeader() {
   return (
     <header className="site-header">
+      <a className="skip-link" href="#main-content">Đi đến nội dung chính</a>
       <div className="site-header__inner">
         <Link href="/" className="brand-mark" aria-label="Trang chủ Kiều Hoài Phương">
           <span className="brand-mark__monogram">KHP</span>
