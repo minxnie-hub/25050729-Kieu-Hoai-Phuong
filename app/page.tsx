@@ -55,8 +55,7 @@ export default function HomePage() {
       <section id="du-an" className="projects-section section-pad" aria-labelledby="projects-title">
         <div className="projects-heading" data-reveal>
           <p className="section-kicker">Dự án học tập</p>
-          <h2 id="projects-title">6 bài tập trong một cấu trúc thống nhất, dễ xem và dễ đối chiếu.</h2>
-          <p>Chọn một bài ở danh sách để xem nhanh mục tiêu, quá trình thực hiện và điều mình rút ra. Bản đầy đủ được giữ nguyên ở trang chi tiết của từng bài.</p>
+          <h2 id="projects-title">6 bài tập đã hoàn thành trong quá trình học tập.</h2>
         </div>
         <ProjectAtlas />
       </section>
