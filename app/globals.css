@@ -1363,3 +1363,702 @@ dd {
     transform: none;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Detail report rebuild: progressive rendering + document-faithful layouts
+   -------------------------------------------------------------------------- */
+
+/* Content must remain visible even when a client-side script or chunk fails. */
+[data-reveal],
+[data-reveal].is-visible {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+.detail-hero {
+  width: min(1040px, calc(100% - 48px));
+  padding-block: clamp(54px, 7vw, 86px) 38px;
+}
+
+.detail-hero h1 {
+  max-width: 980px;
+  font-size: clamp(36px, 5vw, 62px);
+  letter-spacing: -0.025em;
+}
+
+.document-section {
+  width: min(1320px, calc(100% - 48px));
+  grid-template-columns: 190px minmax(0, 1fr);
+  gap: clamp(28px, 4vw, 54px);
+}
+
+.document-paper {
+  padding: clamp(24px, 4vw, 52px);
+  overflow: visible;
+  border-radius: 12px;
+  box-shadow: 0 16px 42px rgba(71, 45, 76, 0.055);
+}
+
+.document-body {
+  font-size: 15.5px;
+  line-height: 1.72;
+}
+
+.document-body .report-cover {
+  margin: 0 0 34px;
+  padding: 0 0 28px;
+  border-bottom: 1px solid var(--line-strong);
+}
+
+.document-body .report-eyebrow {
+  margin: 0 0 10px;
+  color: var(--rose-deep);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.document-body .report-cover h1 {
+  max-width: 880px;
+  margin: 0;
+  font-size: clamp(28px, 4vw, 44px);
+  line-height: 1.14;
+  letter-spacing: -.025em;
+}
+
+.document-body .report-cover > p:last-child,
+.document-body .report-lead {
+  max-width: 760px;
+  margin: 16px 0 0;
+  color: var(--ink-soft);
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+.document-body .report-meta {
+  margin: 0 0 42px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  border-top: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+}
+
+.document-body .report-meta > div {
+  min-width: 0;
+  padding: 15px 17px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  background: #fffdfd;
+}
+
+.document-body .report-meta dt {
+  margin: 0 0 4px;
+  color: var(--ink-soft);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+
+.document-body .report-meta dd {
+  margin: 0;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 650;
+  overflow-wrap: anywhere;
+}
+
+.document-body .report-section {
+  margin: 34px 0;
+}
+
+/* Bài 1: every instruction and its screenshots stay in the same reading row. */
+.document-body .evidence-sequence {
+  border-top: 1px solid var(--line);
+}
+
+.document-body .evidence-step {
+  display: grid;
+  grid-template-columns: minmax(230px, .75fr) minmax(0, 1.35fr);
+  gap: clamp(24px, 4vw, 48px);
+  align-items: start;
+  padding: 34px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.document-body .step-copy {
+  position: sticky;
+  top: 112px;
+  min-width: 0;
+}
+
+.document-body .step-number {
+  display: block;
+  margin-bottom: 12px;
+  color: var(--rose-deep);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .12em;
+}
+
+.document-body .step-copy h2 {
+  margin: 0 0 12px;
+  font-size: clamp(20px, 2.2vw, 27px);
+  line-height: 1.24;
+}
+
+.document-body .step-copy p {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+.document-body .evidence-gallery {
+  min-width: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.document-body .evidence-gallery--single {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.document-body .evidence-gallery--wide {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.document-body .evidence-gallery img,
+.document-body .timeline-media img,
+.document-body .tool-media img,
+.document-body .prompt-evidence img,
+.document-body .slide-gallery img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  object-fit: contain;
+  border: 1px solid #e4d7df;
+  border-radius: 7px;
+  background: white;
+  box-shadow: 0 7px 20px rgba(71, 45, 76, .06);
+}
+
+/* Bài 3: prompt statement and its actual ChatGPT evidence are paired. */
+.document-body .prompt-task {
+  margin: 42px 0 52px;
+  padding-top: 26px;
+  border-top: 1px solid var(--line-strong);
+}
+
+.document-body .prompt-task__header h2 {
+  margin-top: 0;
+}
+
+.document-body .prompt-task__header > p {
+  max-width: 880px;
+  padding: 18px 20px;
+  border-left: 3px solid var(--lilac);
+  background: var(--paper-lilac);
+}
+
+.document-body .prompt-comparisons {
+  margin-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+.document-body .prompt-row {
+  display: grid;
+  grid-template-columns: minmax(220px, .72fr) minmax(0, 1.45fr);
+  gap: 28px;
+  align-items: start;
+  padding: 28px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.document-body .prompt-copy {
+  min-width: 0;
+}
+
+.document-body .prompt-level {
+  display: inline-block;
+  margin-bottom: 10px;
+  color: var(--rose-deep);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.document-body .prompt-copy p {
+  margin: 0;
+  color: var(--ink);
+  font-weight: 620;
+}
+
+.document-body .prompt-evidence {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.document-body .prompt-evidence img:only-child {
+  grid-column: 1 / -1;
+  max-width: 760px;
+}
+
+.document-body .report-note {
+  margin-top: 20px;
+  padding: 18px 20px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper-soft);
+}
+
+.document-body .report-note ul {
+  margin-bottom: 0;
+}
+
+/* Bài 4: diary copy and the screenshots for that day stay together. */
+.document-body .timeline-day {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(260px, .85fr);
+  gap: clamp(24px, 4vw, 44px);
+  align-items: start;
+  margin: 0;
+  padding: 34px 0;
+  border-top: 1px solid var(--line);
+}
+
+.document-body .timeline-day:last-of-type {
+  border-bottom: 1px solid var(--line);
+}
+
+.document-body .timeline-day__number {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--rose-deep);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.document-body .timeline-copy h2 {
+  margin: 0 0 14px;
+  font-size: 23px;
+}
+
+.document-body .timeline-copy > p:first-of-type {
+  color: var(--ink-soft);
+}
+
+.document-body .timeline-media {
+  display: grid;
+  gap: 12px;
+}
+
+/* Bài 5: each AI tool is explained beside its own evidence. */
+.document-body .tool-row {
+  display: grid;
+  grid-template-columns: minmax(240px, .9fr) minmax(0, 1.1fr);
+  gap: clamp(26px, 4vw, 50px);
+  align-items: start;
+  padding: 30px 0;
+  border-top: 1px solid var(--line);
+}
+
+.document-body .tool-row:last-of-type {
+  border-bottom: 1px solid var(--line);
+}
+
+.document-body .tool-copy > p:first-child {
+  margin-top: 0;
+  color: var(--ink);
+  font-size: 20px;
+}
+
+.document-body .tool-media {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.document-body .tool-media img:only-child {
+  grid-column: 1 / -1;
+}
+
+.document-body .final-work {
+  margin: 40px 0;
+  padding-top: 28px;
+  border-top: 1px solid var(--line-strong);
+}
+
+.document-body .slide-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+/* Bài 6: prompt/output blocks and the seven principles remain readable. */
+.document-body .ai-prompt-block {
+  margin: 20px 0;
+  padding: 22px 24px;
+  border-left: 3px solid var(--lilac);
+  background: var(--paper-lilac);
+}
+
+.document-body .ai-prompt-block > p:first-child {
+  color: var(--plum);
+  font-size: 17px;
+}
+
+.document-body .principle-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  margin: 22px 0 36px;
+  border: 1px solid var(--line);
+  background: var(--line);
+}
+
+.document-body .principle-grid article {
+  min-width: 0;
+  padding: 18px 20px;
+  background: #fffdfd;
+}
+
+.document-body .principle-grid p {
+  margin: 0;
+}
+
+/* Real HTML tables: visible cell boundaries, readable headings, mobile scroll. */
+.document-body .table-scroll {
+  margin: 26px 0 38px;
+  border: 1px solid #cdbdc7;
+  border-radius: 0;
+  background: white;
+  box-shadow: none;
+}
+
+.document-body table {
+  min-width: 840px;
+  table-layout: auto;
+  font-size: 12.5px;
+  line-height: 1.48;
+}
+
+.document-body th,
+.document-body td {
+  padding: 11px 12px;
+  border: 1px solid #cdbdc7;
+  background: white;
+  overflow-wrap: break-word;
+}
+
+.document-body thead th,
+.document-body tbody th {
+  color: var(--ink);
+  background: #f3eaf1;
+  font-weight: 800;
+}
+
+.document-body tr:nth-child(even) td {
+  background: #fffafb;
+}
+
+.document-body > img,
+.document-body > p > img {
+  margin: 22px auto;
+}
+
+@media (max-width: 980px) {
+  .document-section {
+    grid-template-columns: 1fr;
+  }
+
+  .reading-rail {
+    position: static;
+    padding-bottom: 18px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .document-body .evidence-step,
+  .document-body .prompt-row,
+  .document-body .timeline-day,
+  .document-body .tool-row {
+    grid-template-columns: 1fr;
+  }
+
+  .document-body .step-copy {
+    position: static;
+  }
+}
+
+@media (max-width: 640px) {
+  .detail-hero,
+  .document-section {
+    width: min(100% - 28px, 1320px);
+  }
+
+  .document-paper {
+    padding: 20px 16px;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+  }
+
+  .document-body .report-meta,
+  .document-body .principle-grid,
+  .document-body .slide-gallery,
+  .document-body .evidence-gallery,
+  .document-body .evidence-gallery--wide,
+  .document-body .prompt-evidence,
+  .document-body .tool-media {
+    grid-template-columns: 1fr;
+  }
+
+  .document-body .evidence-step,
+  .document-body .prompt-row,
+  .document-body .timeline-day,
+  .document-body .tool-row {
+    gap: 18px;
+    padding: 26px 0;
+  }
+
+  .document-body table {
+    min-width: 720px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Final responsive/navigation hardening
+   -------------------------------------------------------------------------- */
+
+/* All essential content is rendered by the server and must never depend on JS
+   to become visible. This prevents blank detail pages if a client chunk fails. */
+[data-reveal],
+[data-reveal].is-visible {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+.mobile-menu-toggle,
+.mobile-nav {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  html {
+    scroll-padding-top: 76px;
+  }
+
+  .site-header__inner {
+    width: min(100% - 32px, var(--max));
+    min-height: 66px;
+    padding-block: 8px;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 16px;
+  }
+
+  .brand-mark {
+    min-width: 0;
+    justify-self: start;
+  }
+
+  .brand-mark__meta {
+    min-width: 0;
+  }
+
+  .brand-mark__meta strong,
+  .brand-mark__meta small {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .site-nav--desktop,
+  .header-brief {
+    display: none;
+  }
+
+  .mobile-menu-toggle {
+    min-width: 82px;
+    min-height: 44px;
+    padding: 0 13px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: var(--plum);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--white);
+    font-size: 12px;
+    font-weight: 750;
+    cursor: pointer;
+  }
+
+  .mobile-menu-toggle__icon {
+    width: 15px;
+    height: 12px;
+    display: grid;
+    align-content: center;
+    gap: 4px;
+  }
+
+  .mobile-menu-toggle__icon i {
+    width: 100%;
+    height: 1px;
+    display: block;
+    background: currentColor;
+    transition: transform 160ms ease;
+  }
+
+  .mobile-menu-toggle[aria-expanded="true"] .mobile-menu-toggle__icon i:first-child {
+    transform: translateY(2.5px) rotate(45deg);
+  }
+
+  .mobile-menu-toggle[aria-expanded="true"] .mobile-menu-toggle__icon i:last-child {
+    transform: translateY(-2.5px) rotate(-45deg);
+  }
+
+  .mobile-nav {
+    width: 100%;
+    border-top: 1px solid var(--line);
+    background: rgba(255, 250, 251, 0.985);
+  }
+
+  .mobile-nav.is-open {
+    display: block;
+  }
+
+  .mobile-nav nav {
+    width: min(100% - 32px, var(--max));
+    margin-inline: auto;
+    padding: 14px 0 18px;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .mobile-nav a {
+    min-height: 46px;
+    padding: 0 14px;
+    display: flex;
+    align-items: center;
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--white);
+    font-size: 13px;
+    font-weight: 650;
+  }
+
+  .mobile-nav__brief {
+    grid-column: 1 / -1;
+    justify-content: space-between;
+    color: var(--plum) !important;
+    background: var(--lilac-soft) !important;
+  }
+
+  /* At tablet widths the reading rail stacks, but the actual evidence remains
+     beside its explanation whenever there is enough room. */
+  .document-section {
+    grid-template-columns: 1fr;
+  }
+
+  .reading-rail {
+    position: static;
+    max-width: 760px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid var(--line);
+  }
+}
+
+@media (max-width: 740px) {
+  .document-body .evidence-step,
+  .document-body .prompt-row,
+  .document-body .timeline-day,
+  .document-body .tool-row {
+    grid-template-columns: 1fr;
+  }
+
+  .document-body .step-copy {
+    position: static;
+  }
+}
+
+@media (max-width: 520px) {
+  .site-header__inner {
+    width: min(100% - 24px, var(--max));
+  }
+
+  .brand-mark__monogram {
+    width: 38px;
+    height: 38px;
+    flex: 0 0 38px;
+  }
+
+  .brand-mark__meta strong {
+    max-width: 155px;
+    font-size: 12.5px;
+  }
+
+  .brand-mark__meta small {
+    display: none;
+  }
+
+  .mobile-menu-toggle {
+    min-width: 76px;
+    padding-inline: 12px;
+  }
+
+  .mobile-nav nav {
+    width: min(100% - 24px, var(--max));
+    grid-template-columns: 1fr;
+  }
+
+  .mobile-nav__brief {
+    grid-column: auto;
+  }
+
+  .detail-hero h1 {
+    font-size: clamp(34px, 10.5vw, 44px);
+    line-height: 1.12;
+  }
+
+  .detail-summary {
+    font-size: 16px;
+  }
+}
+
+/* Keep copy and its matching evidence parallel on tablets, as in the source
+   reports. The layout only stacks on true phone widths. */
+@media (min-width: 741px) and (max-width: 980px) {
+  .document-body .evidence-step {
+    grid-template-columns: minmax(190px, 0.68fr) minmax(0, 1.32fr);
+    gap: 24px;
+  }
+
+  .document-body .prompt-row {
+    grid-template-columns: minmax(180px, 0.62fr) minmax(0, 1.38fr);
+    gap: 22px;
+  }
+
+  .document-body .timeline-day {
+    grid-template-columns: minmax(0, 1.1fr) minmax(220px, 0.9fr);
+    gap: 24px;
+  }
+
+  .document-body .tool-row {
+    grid-template-columns: minmax(200px, 0.82fr) minmax(0, 1.18fr);
+    gap: 24px;
+  }
+
+  .document-body .step-copy {
+    position: sticky;
+    top: 88px;
+  }
+}

@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { MotionProvider } from "@/components/MotionProvider";
 
 export const metadata: Metadata = {
   title: "Kiều Hoài Phương · Portfolio Công nghệ số & AI",
@@ -11,7 +10,6 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="vi">
       <body>
-        <MotionProvider />
         {children}
       </body>
     </html>
